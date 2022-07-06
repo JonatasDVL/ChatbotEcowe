@@ -1,0 +1,9 @@
+flask
+PyYAML
+apscheduler
+beautifulsoup4
+requests
+sqlalchemy
+pymongo
+redis
+lxml
