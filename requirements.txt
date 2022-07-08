@@ -7,4 +7,4 @@ sqlalchemy
 pymongo
 redis
 gunicorn
-collections
+collections.abc
