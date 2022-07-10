@@ -6,5 +6,6 @@ requests
 sqlalchemy
 pymongo
 redis
+lxml
+wikipedia
 gunicorn
-collections.abc
