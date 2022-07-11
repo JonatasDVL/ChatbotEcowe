@@ -780,7 +780,7 @@
 	<!-- Caso não ache resposta: -->
 
 	<category>
-		<pattern> * </pattern>
+		<pattern> _ </pattern>
 		<template>
 			<random>
 				<li> Desculpa, não sei oque você está falando.</li>
