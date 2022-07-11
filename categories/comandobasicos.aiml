@@ -793,7 +793,7 @@
 
   	<category>
 		<pattern> ^ </pattern>
-		<template>Me faça uma pergunta sobre ecologia.</template>
+		<template>Me faça uma pergunta sobre ecologia...</template>
 	</category>  
   
 </aiml>
