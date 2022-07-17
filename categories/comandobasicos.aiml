@@ -780,7 +780,7 @@
 	<!-- Caso não ache resposta: -->
 
 	<category>
-		<pattern> _ </pattern>
+		<pattern> * </pattern>
 		<template>
 			<random>
 				<li> Desculpa, não sei oque você está falando.</li>
@@ -789,11 +789,5 @@
 			</random>
 		</template>
 	</category> 
-
-
-  	<category>
-		<pattern> ^ </pattern>
-		<template>Me faça uma pergunta sobre ecologia.</template>
-	</category>  
   
 </aiml>

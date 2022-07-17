@@ -1,54 +1,3741 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
     
+	<!-- O que são ciclos biogeoquímicos? -->
 
 	<category>
-	    <pattern> # ciclos biogeoquimicos # </pattern>
+	    <pattern> # CICLOS # BIOGEOQUÍMICOS # </pattern>
 	    <template>
 	        <random>
-    	    <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
-            <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
-        	<li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>
+				<li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
+				<li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
+        	<li>As formas em que um elemento ou compostos químicos, tais como a água, fluem entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico.</li>
         	<li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+            <li>Os ciclos biogeoquímicos são as trajetórias circulares de elementos no planeta terra, que faz com que eles sejam reaproveitados.</li>
+            <li>Os ciclos biogeoquímicos são a reciclagem de elementos. através de um percurso circular dos elementos no planeta terra.</li>
+            <li>O ciclo biogeoquímico é definido pela rota circular de diversos elementos no planeta, que ocorre diversas vezes, os reciclando.</li>
 	        </random>
 	    </template>
     </category>
     
+	<category>
+    	<pattern> # CICLOS # BIOGEOQUIMICOS # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
     
+	<category>
+    	<pattern> # CICLO # BIOGEOQUÍMICOS # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
     <category>
-        <pattern> # ciclos bioquímicos # </pattern>
+    	<pattern> # CICLO # BIOGEOQUIMICOS # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # CICLOS # BIOGEOQUÍMICO # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # BIOGEOQUIMICO # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # CICLO # BIOGEOQUÍMICO # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # BIOGEOQUIMICO # </pattern>
+    	<template>
+        	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Quais são os ciclos biogeoquímicos? -->
+
+	<category>
+	    <pattern> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </pattern>
 	    <template>
 	        <random>
-            <li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>                <li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
-            <li>As formas em que um elemento ou compostos químicos tais como a água flue entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico</li>                     <li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+				<li>Os principais ciclos biogeoquímicos são: oxigênio, carbono, água e nitrogênio.</li>
+				<li>Existem cinco principais ciclos biogeoquímicos: água, oxigênio, carbono, nitrogênio e fósforo.</li>
+				<li>Há vários ciclos biogeoquímicos, porém os mais importantes são o ciclo biogeoquímico do oxigênio, carbono, água e do nitrogênio.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # QUAIS # CICLOS # BIOGEOQUIMICOS # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+    
+	<category>
+    	<pattern> # QUAIS # CICLO # BIOGEOQUÍMICOS # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # QUAIS # CICLO # BIOGEOQUIMICOS # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # QUAIS # CICLOS # BIOGEOQUÍMICO # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # QUAIS # CICLOS # BIOGEOQUIMICO # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # QUAIS # CICLO # BIOGEOQUÍMICO # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # QUAIS # CICLO # BIOGEOQUIMICO # </pattern>
+    	<template>
+        	<srai> # QUAIS # CICLOS # BIOGEOQUÍMICOS # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é água? -->
+
+	<category>
+	    <pattern> # ÁGUA # </pattern>
+	    <template>
+	        <random>
+				<li>A água é um substância incolor e insípida, formada por moléculas constituídas de dois átomos de hidrogênio e um de oxigênio.</li>
+				<li>A água é definida por ser uma substância incolor e insípida. Além disso, a água é formada por moléculas constituídas por dois átomos de hidrogênio e um de oxigênio. </li>
+        	<li>A água é uma substância incolor e insípida, e suas moléculas são formadas de H2O.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # AGUA # </pattern>
+    	<template>
+        	<srai> # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Qual é a importância da água? -->
+
+	<category>
+	    <pattern> # IMPORTÂNCIA # ÁGUA # </pattern>
+	    <template>
+	        <random>
+				<li>Sem a água não existiria vida, pois todos os seres vivos necessitam dela para as atividades metabólicas, por isso a água é tão importante.</li>
+				<li>A água é uma substância essencial na vida dos seres vivos, pois desempenha funções metabólicas.</li>
+				<li>A água é muito importante para a vida dos seres vivos, pois ela desempenha uma função no processo metabólico e influência diversas outras funções como transpiração e respiração.</li>
 	        </random>
 	    </template>
     </category>
     
     <category>
-        <pattern> # fatores # ocorra # ciclo bioquímico # </pattern>
-        <template> É necessário um reservatório do elemento químico (atmosfera, hidrosfera ou crosta terrestre); existência de seres vivos e  movimentação do elemento químico pelo meio ambiente e pelos seres vivos de um ecossistema.</template>
+    	<pattern> # IMPORTÂNCIA # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTE # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # ÁGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # MARCANTE # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # ÁGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTE # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AGUA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # MARCANTE # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # AGUAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # ÁGUA # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ÁGUA # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é ciclo biogeoquímico da água? -->
+
+	<category>
+	    <pattern> # CICLOS # ÁGUA # </pattern>
+	    <template>
+	        <random>
+				<li>O ciclo biogeoquímico da água garante a trajetória circular desse elemento pelo planeta.</li>
+				<li>O ciclo da água é o trajeto que faz com que a água circule pelo meio ambiente e seres vivos inúmeras vezes.</li>
+				<li>O ciclo da água é o processo que faz a água pode fazer uma rota circular, que consiste passar pelo meio ambiente e seres vivos diversas vezes.</li>
+	        </random>
+	    </template>
     </category>
     
+	<category>
+    	<pattern> # CICLOS # AGUA # </pattern>
+    	<template>
+        	<srai> # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLO # AGUA # </pattern>
+    	<template>
+        	<srai> # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
     <category>
-        <pattern> # classificações # ciclos bioquímicos # </pattern>
-        <template>Os ciclos biogeoquímicos podem ser classificados em dois grupos principais: gasosos e sedimentares.</template>
+    	<pattern> # CICLO # ÁGUA # </pattern>
+    	<template>
+        	<srai> # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Como funciona o ciclo biogeoquímico da água? -->
+
+	<category>
+	    <pattern> # FUNCIONA # CICLOS # ÁGUA # </pattern>
+	    <template>
+	        <random>
+				<li>Os principais ciclos biogeoquímicos são: oxigênio, carbono, água e nitrogênio.</li>
+				<li>Existem cinco principais ciclos biogeoquímicos: água, oxigênio, carbono, nitrogênio e fósforo.</li>
+				<li>Há vários ciclos biogeoquímicos, porém os mais importantes são o ciclo biogeoquímico do oxigênio, carbono, água e do nitrogênio.</li>
+	        </random>
+	    </template>
     </category>
     
+<category>
+    	<pattern> # FUNCIONA # CICLOS # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
     <category>
-        <pattern> # acontece # ciclo bioquímico # </pattern>
-        <template>Durante um ciclo biogeoquímico, os elementos são absorvidos por seres vivos e são responsáveis por várias e diferentes reações químicas fundamentais para a sobrevivência desses organismos. </template>
+    	<pattern> # FUNCIONA # CICLO # ÁGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FUNCIONA # CICLO # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # ÁGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # TRABALHA # CICLOS # ÁGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLOS # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # ÁGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # AGUA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLOS # ÁGUA # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # AGUA # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # ÁGUA # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # AGUA # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # ÁGUA # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # AGUA # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # ÁGUA # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # AGUA # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # ÁGUA # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # AGUA # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # ÁGUA # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # AGUA # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # ÁGUA # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é OXIGÊNIO? -->
+
+	<category>
+	    <pattern> # OXIGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O oxigênio é um elemento químico de número atômico 8, mais abundante na crosta terrestre e é utilizado no processo de respiração de diversos seres vivos.</li>
+				<li>O oxigênio é um elemento químico e é fundamental para a respiração de diversos seres vivos. </li>
+				<li>O oxigênio é um elemento químico, importante para os seres vivos em sua respiração.</li>
+	        </random>
+	    </template>
     </category>
     
-    <category>
-        <pattern> # ciclo bioquímico gasoso # </pattern>
-        <template>O ciclo gasoso é aquele que possui como reservatório principal do elemento a atmosfera.</template>
-    </category>
-    
-    <category>
-        <pattern> # ciclo bioquímico sedimentar # </pattern>
-        <template> O ciclo sedimentar é aquele que o principal reservatório é a crosta terrestre.</template>
+	<category>
+    	<pattern> # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Qual é a importância da OXIGÊNIO? -->
+
+	<category>
+	    <pattern> # IMPORTÂNCIA # OXIGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O oxigênio é de suma importância para a respiração de diversos animais, por exemplo.</li>
+				<li>O oxigênio é essencial na sobrevivência de vários seres vivos, pois é responsável pela respiração de vários seres vivos e como consequência, produção de energia.</li>
+				<li>O oxigênio é importantíssimo, pois é necessário na respiração celular e na produção de energia de vários seres vivos.</li>
+	        </random>
+	    </template>
     </category>
 
+	<category>
+    	<pattern> # IMPORTANCIA # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+<category>
+    	<pattern> # OXIGÊNIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # OXIGÊNIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGÊNIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OXIGENIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <!-- O que é ciclo biogeoquímico da OXIGÊNIO? -->
+
+	<category>
+	    <pattern> # CICLOS # OXIGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O ciclo biogeoquímico do oxigênio garante a trajetória circular desse elemento pelo planeta.</li>
+				<li>O ciclo do oxigênio é o trajeto que faz com que o oxigênio circule pelo meio ambiente e entre os seres vivos inúmeras vezes.</li>
+				<li>O ciclo do oxigênio é processo no qual o oxigênio pode fazer uma rota circular, que consiste passar pelo meio ambiente e entre os seres vivos diversas vezes.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # CICLOS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLO # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Como funciona o ciclo biogeoquímico da OXIGÊNIO? -->
+
+	<category>
+	    <pattern> # FUNCIONA # CICLOS # OXIGÊNIO # </pattern>
+	    <template>
+	        <random>
+    	    	ele em oxigênio novamente.</li>
+            <li>O ciclo biogeoquímico do oxigênio inicia quando o oxigênio gasoso é consumido no processo de respiração celular, por animais, quando isso acontece os animais liberam dióxido de carbono, assim entra em ação os seres fotossintetizantes, que utilizam o dióxido de carbono no processo de fotossíntese, transformando ele em oxigênio de novo.</li>
+        	<li>O ciclo biogeoquímico do oxigênio inicializa quando o oxigênio gasoso é usado no processo de respiração celular, por animais, quando isso ocorre os animais liberam dióxido de carbono, logo entra a ação das plantas e algas, que utilizam o dióxido de carbono no processo de fotossíntese, virando o carbono em oxigênio outra vez, e o ciclo continua inúmeras vezes.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FUNCIONA # CICLOS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FUNCIONA # CICLO # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FUNCIONA # CICLO # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # TRABALHA # CICLOS # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLOS # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # OXIGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # OXIGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLOS # OXIGÊNIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # OXIGENIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGÊNIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGENIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # OXIGÊNIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # OXIGENIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGÊNIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGENIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # OXIGÊNIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # OXIGENIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGÊNIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # OXIGENIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # OXIGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	
+	<!-- O que é CARBONO? -->
+
+	<category>
+	    <pattern> # CARBONO # </pattern>
+	    <template>
+	        <random>
+				<li>O carbono é um elemento químico utilizado para a fotossíntese dos seres fotossintetizantes.</li>
+				<li>O carbono é definido como um elemento químico de número atômico 6 e é utilizado no processo de fotossíntese.</li>
+				<li>Um elemento químico carbono, de número atômico 6, é um importante elemento do processo de fotossíntese.</li>
+	        </random>
+	    </template>
+    </category>
+
+    <!-- Qual é a importância da CARBONO? -->
+
+	<category>
+	    <pattern> # IMPORTÂNCIA # CARBONO # </pattern>
+	    <template>
+	        <random>
+				<li>O carbono é muito importante, pois participa da fotossíntese, ação vital para as seres fotossintetizantes, consequentemente importante também para a cadeia alimentar e entre outros.</li>
+				<li>O carbono é de suma importância, pois faz parte do efeito estufa, composição de moléculas, participa da fotossíntese, ação vital para as seres fotossintetizantes e entre outros.</li>
+        	<li>A participação do carbono na fotossíntese e no efeito estufa, já caracteriza sua importância.</li>
+	        </random>
+	    </template>
+    </category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # CARBONO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # CARBONO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # AGUA # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # CARBONO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CARBONO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # CARBONO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é ciclo biogeoquímico da CARBONO? -->
+
+	<category>
+	    <pattern> # CICLOS # CARBONO # </pattern>
+	    <template>
+	        <random>
+				<li>O ciclo biogeoquímico do carbono assegura a trajetória circular desse elemento pelo planeta.</li>
+				<li>O ciclo do carbono é a trajetória que faz com que o carbono circule pelo meio ambiente e seres vivos inúmeras vezes.</li>
+				<li>Processo onde o carbono pode fazer uma rota circular, que consiste passar pelo meio ambiente diversas vezes e reciclá-lo.</li>
+	        </random>
+	    </template>
+    </category>
+
+	<category>
+    	<pattern> # CICLO # CARBONO # </pattern>
+    	<template>
+        	<srai> # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Como funciona o ciclo biogeoquímico da CARBONO? -->
+
+	<category>
+	    <pattern> # FUNCIONA # CICLOS # CARBONO # </pattern>
+	    <template>
+	        <random>
+				<li>Como ocorre o ciclo do carbono: os seres vivos autótrofos, por meio da fotossíntese, assimilam o carbono da atmosfera e o transformam em matéria orgânica,  os animais herbívoros comem as plantas, já os animais carnívoros comem os herbívoros, através da cadeia alimentar, logo após isso ele retorna em forma de gás, por meio da da respiração de animais e vegetais, ou da decomposição de seus corpos após a morte. Dessa forma, o ciclo reinicia.</li>
+				<li>O funcionamento do ciclo do carbono ocorre da seguinte forma: as plantas e algas, através da fotossíntese, assimilam o carbono da atmosfera e o transformam em matéria orgânica, os animais herbívoros comem as plantas, já os animais carnívoros comem os herbívoros, logo após isso ele retorna em forma de gás, por meio da da respiração de animais e vegetais, ou da decomposição de seus corpos após a morte.</li>
+				<li>O ciclo do carbono ocorre quando plantas e algas, por meio da fotossíntese, transformam o carbono presente no meio em matéria orgânica. Os animais herbívoros comem as plantas e algas, e desta maneira os animais carnívoros comem os herbívoros, logo após isso ele retorna em forma de gás, por meio da respiração de animais e vegetais, ou da decomposição de seus corpos após a morte, concluído o ciclo.</li>
+	        </random>
+	    </template>
+    </category>
+
+<category>
+    	<pattern> # FUNCIONA # CICLO # CARBONO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # CARBONO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # CARBONO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # TRABALHA # CICLOS # CARBONO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # CARBONO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLOS # CARBONO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # CARBONO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # CARBONO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # CARBONO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # CARBONO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # CARBONO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # CARBONO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é NITROGÊNIO? -->
+
+	<category>
+	    <pattern> # NITROGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O nitrogênio é um elemento químico da tabela periódica, de número 7, sendo diretamente ligado a composição de aminoácidos e proteínas.</li>
+				<li>O nitrogênio é um elemento químico de número atômico 7 e é fundamental na composição de aminoácidos e proteínas.</li>
+        	<li>O nitrogênio é um elemento químico importante para os seres vivos, pois os aminoácidos e proteínas são compostos de nitrogênio.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Qual é a importância da NITROGÊNIO? -->
+
+	<category>
+	    <pattern> # IMPORTÂNCIA # NITROGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O nitrogênio está diretamente relacionado com o crescimento das plantas e ligado a composição de aminoácidos e proteínas.</li>
+				<li>O nitrogênio é um elemento químico importante na composição de proteínas e aminoácidos.</li>
+				<li>O nitrogênio está presente no processo de crescimento das plantas e atua na composição de vitaminas e proteínas.</li>
+	        </random>
+	    </template>
+    </category>
+    
+    <category>
+    	<pattern> # IMPORTÂNCIA # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTE # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # MARCANTE # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # NITROGÊNIOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+<category>
+    	<pattern> # NITROGÊNIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # NITROGÊNIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # NITROGÊNIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGÊNIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # NITROGENIO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é ciclo biogeoquímico da NITROGÊNIO? -->
+
+	<category>
+	    <pattern> # CICLOS # NITROGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O ciclo biogeoquímico do nitrogênio assegura a trajetória circular desse elemento pelo planeta.</li>
+				<li>O ciclo do nitrogênio é a trajetória que faz com que o nitrogênio circule pelo meio ambiente e seres vivos diversas vezes.</li>
+				<li>O ciclo biogeoquímico do nitrogênio é o processo do nitrogênio fazendo uma rota circular, que consiste passar pelo meio ambiente várias vezes.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # CICLOS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- Como funciona o ciclo biogeoquímico da NITROGÊNIO? -->
+
+	<category>
+	    <pattern> # FUNCIONA # CICLOS # NITROGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>O ciclo biogeoquímico do nitrogênio assegura a trajetória circular desse elemento pelo planeta.</li>
+				<li>O ciclo do nitrogênio é a trajetória que faz com que o nitrogênio circule pelo meio ambiente e seres vivos diversas vezes.</li>
+				<li>O ciclo biogeoquímico do nitrogênio é o processo do nitrogênio fazendo uma rota circular, que consiste passar pelo meio ambiente várias vezes.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FUNCIONA # CICLOS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FUNCIONA # CICLO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FUNCIONA # CICLO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLOS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # OCORRE # CICLO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    	<category>
+    	<pattern> # TRABALHA # CICLOS # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLOS # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRABALHA # CICLO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CICLOS # NITROGÊNIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # NITROGENIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGÊNIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGENIO # FUNCIONA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # NITROGÊNIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # NITROGENIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGÊNIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGENIO # OCORRE # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # NITROGÊNIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLOS # NITROGENIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGÊNIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CICLO # NITROGENIO # TRABALHA # </pattern>
+    	<template>
+        	<srai> # FUNCIONA # CICLOS # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que são bactérias de fixação de nitrogênio? -->
+
+	<category>
+	    <pattern> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </pattern>
+	    <template>
+	        <random>
+				<li>As bactérias de fixação de nitrogênio são as bactérias que transformam o nitrogênio gasoso em amônia.</li>
+				<li>As bactérias de fixação de nitrogênio são as bactérias que convertem nitrogênio gasoso em amônia.</li>
+				<li>As bactérias de fixação de nitrogênio são um tipo de bactéria que transforma o nitrogênio gasoso em amônia.</li>
+	        </random>
+	    </template>
+    </category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXAÇÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXACÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXAÇAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXAÇÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXACÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXAÇAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXAÇÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXACAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXACÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXAÇAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FIXACAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXAÇAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # BACTERIAS # FIXACÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXACAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FIXACAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXAÇÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # BACTERIA # FIXAÇÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXACÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXAÇAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXAÇÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXACÃO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXAÇAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXAÇÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXACAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXACÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXAÇAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FIXACAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXAÇAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # BACTERIA # FIXACÃO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXACAO # NITROGÊNIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FIXACAO # NITROGENIO # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FIXAÇÃO # NITROGÊNIO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é AMÔNIA? -->
+
+	<category>
+	    <pattern> # AMÔNIA # </pattern>
+	    <template>
+	        <random>
+				<li>Amônia é um composto químico muito utilizado em plantações e é formado por um átomo de nitrogênio e três de hidrogênio.</li>
+				<li>A amônia é um composto químico, formado por três átomos de hidrogênio e um átomo de nitrogênio. Além disso, a amônia é muito utilizada em fertilizantes para as plantações.</li>
+        		<li>A amônia é um composto químico, constituído por um átomo de nitrogênio e três de hidrogênio. Ademais, a amônia serve de matéria-prima para os fertilizantes e produtos de limpeza.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # AMONIA # </pattern>
+    	<template>
+        	<srai> # AMÔNIA # </srai>
+    	</template>
+  	</category>
+
+	
+	<!-- O que é NITRITO -->
+
+	<category>
+	    <pattern> # NITRITO # </pattern>
+	    <template>
+	        <random>
+				<li>Nitrito é um composto químico liberado por algumas bactérias.</li>
+				<li>O nitrito é um composto químico liberado por algumas bactérias durante o processo de nitrosação, no qual a amônia é transformada em nitrito.</li>
+				<li>O nitrito é um composto químico que é liberado por algumas bactérias durante o processo de nitrosação.</li>
+	        </random>
+	    </template>
+    </category>
+
+	
+	<!-- O que é NITRATO -->
+
+	<category>
+	    <pattern> # NITRATO # </pattern>
+	    <template>
+	        <random>
+				<li>Nitrato é uma composição de nitrogênio e oxigênio.</li>
+				<li>O nitrato é um composto químico formado por três átomos de oxigênio e um de nitrogênio.</li>
+				<li>Nitrato é um composto químico formado da junção de nitrogênio e oxigênio.</li>
+	        </random>
+	    </template>
+    </category>
+
+
+	<!-- O que é FÓSFORO? -->
+
+	<category>
+	    <pattern> # FÓSFORO # </pattern>
+	    <template>
+	        <random>
+				<li>O fósforo é um elemento químico da tabela periódica, de número 15. Além disso, tal elemento é fundamental para os seres vivos, pois compõem as membranas celulares, os ácidos nucleicos, ou seja, o DNA e o RNA, os ossos e os dentes.</li>
+				<li>O fósforo é um elemento químico de número atômico 15 e é essencial na composição das membranas celulares, os ácidos nucleicos, os ossos e os dentes.</li>
+        		<li>O fósforo é um elemento químico importante para os seres vivos, pois as membranas celulares, os ácidos nucleicos, os ossos e os dentes, são compostos de fósforo.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FOSFORO # </pattern>
+    	<template>
+        	<srai> # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Qual é a importância do fósforo? -->
+
+	<category>
+	    <pattern> # IMPORTÂNCIA # FÓSFORO # </pattern>
+	    <template>
+	        <random>
+				<li>O fósforo é muito importante, pois participa na estrutura  de moléculas relacionadas ao metabolismo celular e nas estruturas dos ossos.</li>
+				<li>O fósforo está ligado na participação do metabolismo celular, ATP e na estrutura dos ossos, logo é evidente sua importância.</li>
+        		<li>O fósforo é importante na formação de ATP, ácidos nucleicos e na estrutura dos ossos.</li>
+	        </random>
+	    </template>
+    </category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIAS # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIAS # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # FÓSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # FOSFORO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+<category>
+    	<pattern> # FÓSFORO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # FÓSFORO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTÂNCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANCIAS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # FÓSFORO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FÓSFORO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FOSFORO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # FÓSFORO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que são bactérias fosfatizantes? -->
+
+	<category>
+	    <pattern> # BACTÉRIAS # FOSFATIZANTES # </pattern>
+	    <template>
+	        <random>
+				<li>As bactérias fosfatizantes transformam o fósforo em um composto solúvel.</li>
+				<li>Essas bactérias transformam o fósforo em composto solúvel.</li>
+				<li>Bactérias fosfatizantes atuam na transformação do fósforo em um composto solúvel.</li>
+	        </random>
+	    </template>
+    </category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FOSFATIZANTE # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIAS # FOSFATIZANTE # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTÉRIA # FOSFATIZANTES # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FOSFATIZANTES # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FOSFATIZANTE # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIAS # FOSFATIZANTE # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BACTERIA # FOSFATIZANTES # </pattern>
+    	<template>
+        	<srai> # BACTÉRIAS # FOSFATIZANTES # </srai>
+    	</template>
+  	</category>
 
 </aiml>

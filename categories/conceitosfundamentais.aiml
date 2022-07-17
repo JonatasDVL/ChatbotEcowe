@@ -14,7 +14,6 @@
     	</template>
   	</category>
 
-
 	<category>
     	<pattern> # ESPÉCIES # </pattern>
     	<template>
@@ -2859,8 +2858,8 @@
     	<template>
         	<random>
 				<li> A temperatura pode influenciar de diversas formas um ser vivo, indo do seu comportamento até aspectos morfológicos, como também para sua sobrevivência.</li>
-				<li> A luz é vital para os seres vivos, pois grande parte necessita dela para viver, principalmente as plantas, já que, elas desempenham o processo de fotossíntese.</li> 
-        		<li> Na biologia a luz é um dos elementos fundamentais no desenvolvimento dos seres vivos, pois desempenha inúmeros papéis, de forma direta e indireta, para todo o ecossistema.</li>  
+				<li> A influência da temperatura pode ser diversa, já que, a concepção da vida só é possível em certos níveis de temperatura. Um ser vivo, por exemplo, pode sofrer a influência da temperatura na sua reprodução e até no seu comportamento.</li> 
+        		<li> A temperatura influencia os seres vivos, pois mudanças drásticas em seu habitat podem ocasionar alterações comportamentais, morfológicas dentre outras, como a reprodução. </li>  
         	</random>
     	</template>
   	</category>
@@ -2963,7 +2962,12 @@
     	</template>
   	</category>
 
-
+	<category>
+    	<pattern> # TEMPERATURA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
+    	</template>
+  	</category>
 
 	<category>
     	<pattern> # TEMPERATURAS # </pattern>
@@ -2971,134 +2975,6 @@
         	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
     	</template>
   	</category>
-
-
-	<category>
-    	<pattern> # IMPORTÂNCIA # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # IMPORTANCIA # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # IMPORTÂNCIAS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # IMPORTANCIAS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # INFLUÊNCIA # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # INFLUENCIA # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # INFLUÊNCIAS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # INFLUENCIAS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # IMPORTANTE # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # IMPORTANTES # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # FUNDAMENTAL # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # FUNDAMENTAIS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # ESSENCIAL # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # ESSENCIAIS # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # RELEVANTE # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # RELEVANTES # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # MARCANTE # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
-	<category>
-    	<pattern> # MARCANTES # TEMPERATURAS # </pattern>
-    	<template>
-        	<srai> # IMPORTÂNCIA # TEMPERATURA # </srai>
-    	</template>
-  	</category>
-
 
 	<!-- O que é Salinidade? -->
 
@@ -3164,7 +3040,7 @@
         	<random>
 				<li> A textura do solo é a relação do tipo de matéria que existe em sua composição, podendo ser feita de areia, lodo e argila. A textura influencia diretamente os tipos de seres vivos que vivem naquele local.</li>
 				<li> O solo possui diversas texturas, sendo elas: argilosas, lodosas e arenosas. Tais texturas influenciam diretamente nos animais que lá residem.</li> 
-        		<li> A textura do solo é definida pela relação de: areia, lodo e argila, que o solo tem, desta forma o solo é formado com textura, contudo irá depender da porcentagem de cada elemento.</li>  
+        		<li> A textura do solo é definida pela relação de: areia, lodo e argila, que o solo tem, contudo irá depender da porcentagem de cada elemento, com isso é definida a textura do solo.</li>  
         	</random>
     	</template>
   	</category>
@@ -3201,6 +3077,439 @@
 				<li> A permeabilidade é a relação entre o solo e o quanto ele pode absorver de água em determinado tempo.</li> 
         		<li> A permeabilidade do solo é a relação da capacidade do solo em deixar entrar água por causa da porosidade.</li>  
         	</random>
+    	</template>
+  	</category>
+
+
+   <!-- O que é evaporação? -->
+
+	<category>
+	    <pattern> # EVAPORAÇÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A evaporação é um fenômeno físico marcado pela passagem de uma substância do estado líquido para o gasoso.</li>
+				<li>A evaporação é um fenômeno físico e ocorre quando uma substância passa do estado líquido para o gasoso.</li>
+				<li>O fenômeno físico da evaporação é referente a passagem da de uma substância do estado líquido para o estado gasoso.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # EVAPORACAO # </pattern>
+    	<template>
+        	<srai> # EVAPORAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EVAPORAÇAO # </pattern>
+    	<template>
+        	<srai> # EVAPORAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # EVAPORACÃO # </pattern>
+    	<template>
+        	<srai> # EVAPORAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <!-- O que é condensação? -->
+
+	<category>
+	    <pattern> # CONDENSAÇÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A condensação ou liquefação é um fenômeno físico marcado pela passagem de uma substância do estado gasoso para o líquido.</li>
+				<li>A liquefação também chamada de condensação é um fenômeno físico e ocorre quando uma substância passa do estado gasoso para o líquido.</li>
+				<li>O fenômeno físico da condensação ou liquefação é referente a passagem da de uma substância do estado gasoso para o estado líquido.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # CONDENSACAO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CONDENSAÇAO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # CONDENSACÃO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # LIQUEFAÇÃO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # LIQUEFACAO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # LIQUEFAÇAO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # LIQUEFACÃO # </pattern>
+    	<template>
+        	<srai> # CONDENSAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    
+    <!-- O que é precipitação? -->
+
+    <category>
+	    <pattern> # PRECIPITAÇÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A precipitação é um fenômeno físico marcado pela queda da água do céu. Isso inclui neve, chuva e chuva de granizo.</li>
+				<li>A precipitação é um fenômeno físico que ocorre quando há queda da água da atmosfera. Isso engloba a chuva, chuva de granizo e neve.</li>
+				<li>O fenômeno físico da evaporação é referente à queda da água do céu. Isso compreende a chuva, neve e chuva de granizo.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # PRECIPITACAO # </pattern>
+    	<template>
+        	<srai> # PRECIPITAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # PRECIPITAÇAO # </pattern>
+    	<template>
+        	<srai> # PRECIPITAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # PRECIPITACÃO # </pattern>
+    	<template>
+        	<srai> # PRECIPITAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é transpiração? -->
+
+    <category>
+	    <pattern> # TRANSPIRAÇÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A transpiração é um processo de eliminação da água que está nos seres vivos devido ao aumento da temperatura externa ou interna.</li>
+				<li>A transpiração é um processo de liberação da água que está no corpo do ser vivo por causa da elevação da temperatura externa ou interna.</li>
+				<li>A transpiração é a eliminação da água de organismos vivos, como animais e plantas.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # TRANSPIRACAO # </pattern>
+    	<template>
+        	<srai> # TRANSPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRANSPIRAÇAO # </pattern>
+    	<template>
+        	<srai> # TRANSPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # TRANSPIRACÃO # </pattern>
+    	<template>
+        	<srai> # TRANSPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é respiração? -->
+
+    <category>
+	    <pattern> # RESPIRAÇÃO # </pattern>
+	    <template>
+	        <random>
+				<li>A respiração é o processo de trocas gasosas e obtenção de energia para as células.</li>
+				<li>A respiração é definida pelas trocas gasosas de um ser vivo com o meio ambiente.</li>
+				<li>O processo de respiração é quando há trocas gasosas com o meio ambiente para obter energia. </li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # RESPIRACAO # </pattern>
+    	<template>
+        	<srai> # RESPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # RESPIRAÇAO # </pattern>
+    	<template>
+        	<srai> # RESPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # RESPIRACÃO # </pattern>
+    	<template>
+        	<srai> # RESPIRAÇÃO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é COMBUSTão? -->
+
+    <category>
+	    <pattern> # COMBUSTÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A combustão é uma reação química que envolve dois materiais, um combustível e um comburente, onde há liberação de calor na forma de energia.</li>
+				<li>Combustão é a reação química que envolve um combustível e um comburente, onde existe a liberação de calor na forma de energia.</li>
+				<li>A combustão, também chamada de queima, é a reação química que envolve um combustível e um comburente, com a  liberação de calor na forma de energia.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # COMBUSTAO # </pattern>
+    	<template>
+        	<srai> # COMBUSTÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # COMBUSTAO # </pattern>
+    	<template>
+        	<srai> # COMBUSTÃO # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é o fenômeno la niña? -->
+
+    <category>
+	    <pattern> # FENÔMENO # NIÑA # </pattern>
+	    <template>
+	        <random>
+				<li>La Niña é o fenômeno oposto ao El Niño, consistindo no resfriamento das águas. </li>
+				<li>O fenômeno La Niña consiste no fenômeno de resfriamento das águas.</li>
+				<li>La Niña, é o fenômeno climático que consiste no resfriamento das águas do oceano Pacífico.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FENÔMENO # NINA # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FENOMENO # NIÑA # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑA # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FENOMENO # NINA # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑA # </srai>
+    	</template>
+  	</category>
+
+
+    <!-- O que é o fenômeno la niñO? -->
+
+    <category>
+	    <pattern> # FENÔMENO # NIÑO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>O El Niño é o fenômeno de aquecimento das águas. </li>
+				<li>O fenômeno El Niño é o aquecimento das águas do Oceano Pacífico.</li>
+				<li>O fenômeno El Niño é o processo de aquecimento das águas do Oceano Pacífico, esse processo pode desencadear uma somatória de efeitos em vários locais.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FENÔMENO # NINO # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FENOMENO # NIÑO # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # FENOMENO # NINO # </pattern>
+    	<template>
+        	<srai> # FENÔMENO # NIÑO # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é Fotossíntese? -->
+
+	<category>
+	    <pattern> # FOTOSSÍNTESE # </pattern>
+	    <template>
+	        <random>
+    	    	<li>Fotossíntese é o processo pelo qual os seres fotossintetizantes conseguem energia para sobreviver.</li>
+				<li>A fotossíntese é o processo no qual a luz proveniente do sol é utilizada para produzir energia para algas e plantas.</li>
+				<li>A fotossíntese é um recurso utilizado pelas plantas e algas que utilizam a luz solar para produzir energia. </li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FOTOSSINTESE # </pattern>
+    	<template>
+        	<srai> # FOTOSSÍNTESE # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é um ser fotossintetizantes? -->
+
+	<category>
+	    <pattern> # FOTOSSINTETIZANTE # </pattern>
+	    <template>
+	        <random>
+				<li>Os seres fotossintetizantes são seres que usam energia luminosa para gerar energia química.</li>
+				<li>Seres fotossintetizantes são os seres que utilizam luz solar para produzir energia química.</li>
+				<li>Os seres fotossintetizantes são organismos que através da luz do sol produzem energia química.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+
+	   <!-- O exemplos de seres fotossintetizantes? -->
+
+	<category>
+	    <pattern> # EXEMPLO # FOTOSSINTETIZANTE # </pattern>
+	    <template>
+	        <random>
+    	    	<li>Exemplos de seres fotossintetizantes: plantas e algas verdes.</li>
+				<li>Os seres fotossintetizantes são as plantas, algas e algumas bactérias.</li>
+				<li>As algas e plantas são exemplos de seres fotossintetizantes.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # EXEMPLOS # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # FOTOSSINTETIZANTE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CITE # FOTOSSINTETIZANTE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # CITE # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DIGA # FOTOSSINTETIZANTE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DIGA # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLIFIQUE # FOTOSSINTETIZANTE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLIFIQUE # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUAIS # FOTOSSINTETIZANTE # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUAIS # FOTOSSINTETIZANTES # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
     	</template>
   	</category>
 

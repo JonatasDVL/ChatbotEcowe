@@ -4,7 +4,6 @@
 
   <!-- O que é ser autótrofo/produtor? -->
 
-
     <category>
         <pattern> # PRODUTORES # </pattern>
         <template>
@@ -1054,52 +1053,1033 @@
   	</category>
 
 
+  	<!-- O que são seres heterótrofos -->
+
     <category>
-        <pattern> # COMSUMIDORES # </pattern>
+        <pattern> # HETEROTRÓFICOS # </pattern>
         <template>
             <random>
-            <li> São seres que se alimentam de outros seres para sobreviver.</li>
-            <li> São animais que consomem os seres para sobreviver.</li> 
-            <li> Consumidores são principalmente seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de seres autotróficos e dos seres heterotróficos.</li>
+                <li> Os organismos heterótrofos são os seres que não são capazes de sintetizar matéria orgânica a partir de substâncias inorgânicas, ou seja, precisam consumir organismos, seres mortos ou alimentos de origem vegetal para seu sustento.</li>
+                <li> Os organismos heterótrofos são os seres que não são capazes de produzir seu próprio alimento através de matéria inorgânicas, isto é, são seres que consomem alimentos de origem vegetal e animal, pois não produzem alimento por si próprio.    </li> 
+                <li> Seres heterótrofos são os organismos que não produzem matéria orgânica para se alimentar, ou melhor, necessitam consumir outros seres, matéria morta ou alimentos vegetais para sua sobrevivência.</li>
             </random>
         </template>
     </category>
-    
-    
+  
     <category>
-        <pattern> # COMSUMIDOR #  </pattern>
+    	<pattern> # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+  <!-- Qual a importância dos seres autótrofos/produtores? -->
+
+    <category>
+        <pattern> # IMPORTÂNCIA # HETEROTRÓFICOS # </pattern>
         <template>
-            <srai> # COMSUMIDORES # </srai>
+            <random>
+                <li> Os seres heterótrofos são importantes para o equilíbrio da cadeia alimentar e para as interações entre os seres vivos.</li>
+                <li> Heterótrofos são importantíssimos para o equilíbrio do ecossistema e para as interações das populações lá existentes.</li> 
+                <li> Os seres heterótrofos são de suma importância, pois proporcionam interações entre os seres vivos e o equilíbrio da cadeia alimentar.</li>
+            </random>
         </template>
     </category>
+  
+    <category>
+    	<pattern> # IMPORTANCIA # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	   	<category>
+    	<pattern> # IMPORTÂNCIA # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	   	<category>
+    	<pattern> # IMPORTÂNCIA # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+   	<category>
+    	<pattern> # IMPORTANCIA # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+
+  <!-- Exemplos de seres heterotróficos? -->
+
+    <category>
+        <pattern> # EXEMPLO # HETEROTRÓFICOS # </pattern>
+        <template>
+            <random>
+                <li> Um grande exemplo de ser heterótrofo é o ser humano.</li>
+                <li> Lobos, leões, tigres e onças, por exemplo.</li> 
+                <li> Tubarões, baleias e golfinhos são exemplos de seres heterótrofos. </li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLOS # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # TIPOS # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPOS # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # TIPO # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # TIPO # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # ALGUNS # HETEROTRÓFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ALGUNS # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLO # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
     
-    
+
+  	<!-- Quem são os seres heterotróficos? -->
+
+    <category>
+        <pattern> # QUEM # HETEROTRÓFICOS # </pattern>
+        <template>
+            <random>
+                <li> Heterótrofos podem ser consumidores quando utilizam outros seres como alimento ou então decompositores, quando utilizam a matéria morta de organismos produtores ou consumidores.</li>
+                <li> Eles podem ser consumidores, quando se alimentam de outros seres vivos, ou decompositores, quando alimentam-se de matéria morta.</li> 
+                <li> Podem ser consumidores, quando consomem outros seres vivos para a sobrevivência, ou decompositores, quando utilizam a matéria morta para a decomposição.  </li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+    	<pattern> # QUEM # HETEROTROFICOS # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETEROTRÓFICO # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETEROTROFICO # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETERÓTROFO # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETERÓTROFOS # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETEROTROFO # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # QUEM # HETEROTROFOS # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # QUEM # HETEROTROFISMO # </pattern>
+    	<template>
+        	<srai> # QUEM # HETEROTRÓFICOS # </srai>
+    	</template>
+  	</category>
+
+
+  	<!-- O que são os seres decompositores? -->
+
     <category>
         <pattern> # DECOMPOSITORES # </pattern>
         <template>
             <random>
-                <li> São os seres que decompõem matérias orgânicas.</li>
-                <li> Representado principalmente pelos fungos, são os que ajudam na decomposição da matéria orgânica.</li> 
+                <li> Os seres decompositores são os seres que decompõem matérias orgânicas.</li>
+                <li> Seres decompositores são representados principalmente pelos fungos, são os que ajudam na decomposição da matéria orgânica. </li> 
                 <li> Os decompositores são aqueles que a cada nível da cadeia decompõem os restos de material orgânico, sendo os principais representantes os fungos, reciclando e reutilizando a matéria orgânica.</li>
             </random>
         </template>
     </category>
-    
-    
+
+	<category>
+    	<pattern> # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Qual é a importância dos seres decompositores? -->
+
     <category>
-        <pattern> # DECOMPOSITOR #  </pattern>
+        <pattern> # IMPORTÂNCIA # DECOMPOSITORES # </pattern>
         <template>
-            <srai> # DECOMPOSITORES # </srai>
+            <random>
+                <li> Eles são importantes para reciclagem de matéria orgânica, já que, os decompositores absorvem a energia da matéria orgânica morta e liberam nutrientes no solo durante tal transformação.</li>
+                <li> Os decompositores são de suma importância, pois transformam a matéria orgânica morta em matéria inorgânica. Deste modo, a matéria inorgânica é absorvida pelos produtores que a transformam em matéria orgânica, ou seja, um ciclo da matéria orgânica. </li> 
+                <li> Os seres decompositores fazem parte da reciclagem da matéria orgânica, os quais transformam a matéria orgânica morta em matéria inorgânica que posteriormente é transformada em matéria orgânica pelos produtores.</li>
+            </random>
         </template>
     </category>
-      <category>
+
+	
+	<category>
+    	<pattern> # IMPORTÂNCIA # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Exemplos de seres decompositores? -->
+
+    <category>
+        <pattern> # EXEMPLO # DECOMPOSITORES # </pattern>
+        <template>
+            <random>
+                <li> Os fungos, bactérias, alguns protozoários e alguns animais pequenos são exemplos de decompositores. </li>
+                <li> Os fungos e as bactérias são os principais representantes. </li> 
+                <li> Os decompositores são, por exemplo, bactérias e fungos.</li>
+            </random>
+        </template>
+    </category>
+
+
+	<!-- O que é nível trófico? -->
+
+    <category>
         <pattern> # NÍVEIS # TRÓFICOS # </pattern>
         <template>
             <random>
-                <li> Nível trófico é um grupo de conjuntos bióticos e abióticos que forma um Ecossistema.</li>
-                <li> Também chamado de cadeia alimentar, é o “ciclo sem fim”.</li> 
-                <li> Nível trófico é um conjunto de seres bióticos e abióticos que formam a cadeia alimentar e possuem ações semelhantes.</li>
-            </random>
+                <li> Nível trófico é um conjunto de seres bióticos que formam a cadeia alimentar e possuem ações semelhantes.</li>
+            	<li> O nível trófico é o conjunto de seres vivos a necessidades e hábitos alimentares de determinada população.</li>
+				<li> Nível trófico é o conjunto dos seres vivos de uma cadeia alimentar que apresentam um tipo semelhante de alimentação, ou seja, estão no mesmo nível de nutrição.</li>
+				<li> Os níveis tróficos são o conjunto de hábitos alimentares semelhantes dos seres vivos, os quais ficam divididos em nível de alimentação.</li>
+			</random>
         </template>
     </category>
     
@@ -1126,5 +2106,1055 @@
             <srai> # NÍVEIS # TRÓFICOS # </srai>
         </template>
     </category>
+
+
+	<category>
+        <pattern> # NÍVEL # TRÓFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # NIVEL # TRÓFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+    
+        
+    <category>
+        <pattern> # NÍVEL # TROFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+  
+    <category>
+        <pattern> # NIVEL # TROFICOS #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+
+	<category>
+        <pattern> # NÍVEIS # TRÓFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # NIVEIS # TRÓFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+    
+        
+    <category>
+        <pattern> # NÍVEIS # TROFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+  
+    
+    <category>
+        <pattern> # NIVEIS # TROFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # NÍVEL # TRÓFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # NIVEL # TRÓFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+        
+    <category>
+        <pattern> # NÍVEL # TROFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+  
+    <category>
+        <pattern> # NIVEL # TROFICO #  </pattern>
+        <template>
+            <srai> # NÍVEIS # TRÓFICOS # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque é cadeia alimentar? -->
+
+    <category>
+        <pattern> # CADEIA # ALIMENTAR # </pattern>
+        <template>
+            <random>
+            <li> Cadeia alimentar é as relações que se estabelecem entre os níveis tróficos, sendo a sequência de alimentação entre os seres vivos.</li>
+            <li> A cadeia alimentar é  a sequência de alimentação dentre os seres vivos, que estabelece a relação entre os níveis tróficos, isso forma uma cadeia alimentar.</li> 
+            <li> A cadeia alimentar é estabelecida por uma sequência de alimentação dos seres vivos, onde uns se alimentam dos outros sucessivamente.</li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR #  </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES #  </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES #  </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque é teia alimentar? -->
+
+    <category>
+        <pattern> # TEIA # ALIMENTAR # </pattern>
+        <template>
+            <random>
+            <li> A teia alimentar é um conjunto de diversas cadeias alimentares que interagem entre si.</li>
+            <li> A teia alimentar é um conjunto de cadeias alimentares que se cruzam.</li> 
+            <li> Teia alimentar é a conexão entre duas ou mais cadeias alimentares.</li>
+            </random>
+        </template>
+    </category>
+
+	  	<category>
+        <pattern> # TEIAS # ALIMENTAR #  </pattern>
+        <template>
+            <srai> # TEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # TEIA # ALIMENTARES #  </pattern>
+        <template>
+            <srai> # TEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # TEIAS # ALIMENTARES #  </pattern>
+        <template>
+            <srai> # TEIA # ALIMENTAR # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque é um herbívoro? -->
+
+    <category>
+        <pattern> # HERBÍVORO # </pattern>
+        <template>
+            <random>
+            <li> Os herbívoros são animais que se alimentam apenas de vegetais e folhas.</li>
+            <li> Os herbívoros são aqueles animais que se alimentam apenas de algas e plantas.</li> 
+            <li> Os animais herbívoros são aqueles que têm sua dieta à base de vegetais.</li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # HERBIVORO #  </pattern>
+        <template>
+            <srai> # HERBÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # HERBÍVOROS #  </pattern>
+        <template>
+            <srai> # HERBÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # HERBIVOROS #  </pattern>
+        <template>
+            <srai> # HERBÍVORO # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque é um carnívoro? -->
+
+    <category>
+        <pattern> # CARNÍVORO # </pattern>
+        <template>
+            <random>
+            <li> Os carnívoros são animais que se alimentam predominantemente de carne.</li>
+            <li> Carnívoros são animais que se alimentam majoritariamente de carne.</li> 
+            <li> Os animais carnívoros têm sua dieta à base de carne.</li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CARNIVORO #  </pattern>
+        <template>
+            <srai> # CARNÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CARNÍVOROS #  </pattern>
+        <template>
+            <srai> # CARNÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CARNIVOROS #  </pattern>
+        <template>
+            <srai> # CARNÍVORO # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque é um onívoro? -->
+
+    <category>
+        <pattern> # ONÍVORO # </pattern>
+        <template>
+            <random>
+            <li> Os onívoros são animais que comem tanto de vegetais quanto de carne.</li>
+            <li> Os onívoros são animais que se alimentam tanto de plantas como de animais.</li> 
+            <li> Os animais onívoros são aqueles que se alimentam tanto de carne, como os carnívoros, quanto de vegetais, como os herbívoros.</li>
+            </random>
+        </template>
+    </category>
+
+		<category>
+        <pattern> # ONIVORO #  </pattern>
+        <template>
+            <srai> # ONÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # ONÍVOROS #  </pattern>
+        <template>
+            <srai> # ONÍVORO # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # ONIVOROS #  </pattern>
+        <template>
+            <srai> # ONÍVORO # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque são seres consumidores? -->
+
+    <category>
+        <pattern> # CONSUMIDORES # </pattern>
+        <template>
+            <random>
+            <li> Os consumidores são seres que se alimentam de outros seres para sobreviver, ou seja, são seres heterotróficos.</li>
+            <li> Os consumidores são seres vivos que consomem outros seres vivos para sua sobrevivência, logo são seres heterotróficos.</li> 
+            <li> Consumidores são seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de outros seres vivos para sobreviver.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+
+	<!-- Como são classificados/designados os consumidores? -->
+
+    <category>
+        <pattern> # CLASSIFICAÇÃO # CONSUMIDORES # </pattern>
+        <template>
+            <random>
+            <li> Os consumidores são designados conforme se encontram mais próximos dos produtores na cadeia alimentar. Exemplo: Uma zebra está se alimentando do capim, logo a zebra é o consumidor primário, pois está se alimentando diretamente de um produtor, o capim. </li>
+            <li> Os consumidores são classificados de acordo com sua proximidade dos produtores na cadeia alimentar. Exemplo: Um macaco está comendo frutas, logo o macaco é o consumidor primário, pois está se alimentando diretamente de um produtor, a fruta de uma árvore. </li> 
+            <li> Os consumidores são classificados segundo sua proximidade dos produtores na cadeia alimentar. Exemplo: Um leão está comendo a zebra, logo o leão é o consumidor secundário, pois está se alimentando do consumidor primário, a zebra. </li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # CLASSIFICAÇÃO # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque são seres consumidores primários? -->
+
+    <category>
+        <pattern> # CONSUMIDORES # PRIMÁRIOS # </pattern>
+        <template>
+            <random>
+            <li> Os consumidores primários são os animais herbívoros, pois eles se alimentam diretamente do produtor.</li>
+            <li> O consumidor primário se alimenta diretamente e exclusivamente do produtor.</li> 
+            <li> Os consumidores primários são aqueles que se alimentam exclusivamente do produtor, ou seja, os herbívoros são consumidores primários.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # CONSUMIDORES # PRIMARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+    
+	<category>
+        <pattern> # CONSUMIDORES # PRIMÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDORES # PRIMARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # PRIMÁRIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # PRIMARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # PRIMARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # PRIMÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque são seres coNsumidores secundário? -->
+
+    <category>
+        <pattern> # CONSUMIDORES # SECUNDÁRIOS # </pattern>
+        <template>
+            <random>
+            <li> Os consumidores secundários são os animais carnívoros que se alimentam do consumidor primário.</li>
+            <li> O consumidor secundário é aquele que se alimenta do consumidor primário, ou seja, o herbívoro. </li> 
+            <li> Consumidores secundários se alimentam exclusivamente de herbívoros.</li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # CONSUMIDORES # SECUNDARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+    
+	<category>
+        <pattern> # CONSUMIDORES # SECUNDÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDORES # SECUNDARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # SECUNDÁRIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # SECUNDARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # SECUNDÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # SECUNDÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # SECUNDARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # PRIMÁRIOS # </srai>
+        </template>
+    </category>
+
+
+	<!-- Oque são seres consumidores terciários? -->
+
+    <category>
+        <pattern> # CONSUMIDORES # TERCIÁRIOS # </pattern>
+        <template>
+            <random>
+            <li> Os consumidores terciários são os animais que se alimentam do consumidor secundário.</li>
+            <li> Os consumidores terciário são aqueles consumidores que se alimentam do consumidor secundário.</li> 
+            <li> O consumidor terciário é um animal que se alimenta do consumidor secundário. </li>
+            </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern> # CONSUMIDORES # TERCIARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+    
+	<category>
+        <pattern> # CONSUMIDORES # TERCIÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDORES # TERCIARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # TERCIÁRIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # TERCIARIOS # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # TERCIARIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CONSUMIDOR # TERCIÁRIO # </pattern>
+        <template>
+            <srai> # CONSUMIDORES # TERCIÁRIOS # </srai>
+        </template>
+    </category>
+
+
+	<!-- O que é pirâmide ecológica? -->
+
+	<category>
+		<pattern> # PIRAMIDE # ECOLOGICA # </pattern>
+		<template>
+			<random>
+				<li> As pirâmides ecológicas são representações que ajudam a entender as relações alimentares entre os indivíduos. Além disso, existem três tipos principais de pirâmides ecológicas.</li>
+				<li> As pirâmides ecológicas são representações gráficas sobre as interações tróficas das espécies numa comunidade. Ademais, há três tipos de pirâmides ecológicas.</li> 
+				<li> As pirâmides ecológicas são figuras que ajudam a entender o fluxo de energia, massa e da quantidade de indivíduos de um ecossistema. Outrossim, existem três tipos importantes de pirâmides ecológicas.</li>
+				<li>As pirâmides ecológicas são representações gráficas das interações da comunidade em relação ao fluxo de energia, matéria e número de indivíduos. Ademais, tem três tipos básicos de pirâmides ecológicas.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # ECOLOGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # PIRAMIDE # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDE # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+		<category>
+		<pattern> # PIRAMIDES # ECOLOGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # ECOLOGICA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ECOLOGICA # </srai>
+		</template>
+	</category>
+
+
+	<!-- Tipos de  pirâmide ecológica? -->
+
+	<category>
+		<pattern> # TIPOS # PIRÂMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<random>
+				<li> Os tipos de pirâmides são divididas em três: pirâmides de número, biomassa e de energia.</li>
+				<li> Os tipos de pirâmides são divididas em três: pirâmides de biomassa, energia e de número.</li> 
+				<li> Os tipos de pirâmides estão repartidas em três: pirâmides de energia, biomassa e de número.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRÂMIDE # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDE # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+  	<category>
+		<pattern> # TIPOS # PIRÂMIDES # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDES # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRÂMIDES # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDES # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+  	<category>
+		<pattern> # TIPOS # PIRÂMIDE # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDE # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRÂMIDE # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDE # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+  	<category>
+		<pattern> # TIPO # PIRÂMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRAMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRÂMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRAMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+  	<category>
+		<pattern> # TIPOS # PIRÂMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDES # ECOLÓGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRÂMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPOS # PIRAMIDES # ECOLOGICAS # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+  	<category>
+		<pattern> # TIPO # PIRÂMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRAMIDE # ECOLÓGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRÂMIDE # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # TIPO # PIRAMIDE # ECOLOGICA # </pattern>
+		<template>
+			<srai> # TIPOS # PIRÂMIDE # ECOLÓGICA # </srai>
+		</template>
+	</category>
+
+
+	<!-- O que é pirâmide de número? -->
+
+	<category>
+		<pattern> # PIRAMIDE # NUMERO # </pattern>
+		<template>
+			<random>
+				<li> As pirâmides de números representam o número de seres vivos de cada nível trófico, não dependendo do tamanho do indivíduo nela presente. Ademais, há três tipos de pirâmides de números.</li>
+				<li> As pirâmides de números através de gráficos relacionam o número de indivíduos de cada nível trófico, independentemente do tamanho do indivíduo. Além disso, elas podem ser pirâmides de números.</li> 
+				<li> As pirâmides de números estão relacionadas ao número total de indivíduos de cada nível trófico. Outrossim, existem três tipos de pirâmides de números.</li>
+				<li> As pirâmides de números são pirâmides em que é mostrado a quantidade de seres em cada nível trófico, podendo às vezes ser mista ou invertida.</li>
+				<li> As pirâmides de números são pirâmides que mostram o número de indivíduos presente em cada nível trófico, podendo às vezes ser invertida ou mista.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # NÚMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDE # NÚMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # NUMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # NUMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # NÚMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # NÚMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # NUMERO # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDE # NUMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # NÚMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDE # NÚMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # NUMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # NUMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # NÚMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # NÚMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # NUMEROS # </pattern>
+		<template>
+			<srai> # PIRAMIDE # NUMERO # </srai>
+		</template>
+	</category>
+
+
+	<!-- O que é pirâmide de biomassa? -->
+
+	<category>
+		<pattern> # PIRAMIDE # BIOMASSA # </pattern>
+		<template>
+			<random>
+				<li> A pirâmide de biomassa é um tipo de pirâmide que representa a quantidade de matéria orgânica que tem em cada nível trófico no corpo dos seres vivos.</li>
+				<li> A pirâmide de biomassa é um tipo de pirâmide que representa graficamente a quantidade de matéria presente nos corpos dos organismos. </li> 
+				<li> As pirâmides de biomassa são pirâmides que mostram a quantidade de matéria orgânica disponível em cada nível trófico.</li>
+			</random>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # PIRÂMIDE # BIOMASSA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # BIOMASSA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # BIOMASSA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # BIOMASSA # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # PIRÂMIDES # BIOMASSA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # BIOMASSA # </srai>
+		</template>
+	</category>
+
+
+	<!-- O que é pirâmide de energia? -->
+
+	<category>
+		<pattern> # PIRAMIDE # ENERGIA # </pattern>
+		<template>
+			<random>
+				<li> As pirâmides de energia são pirâmides que mostram a quantidade de energia por nível trófico, a energia vai diminuindo em direção aos níveis tróficos mais altos.</li>
+				<li> As pirâmides de energia são pirâmides em que é mostrado graficamente a quantidade de energia de cada nível trófico, quanto menor o nível trófico mais energia terá esse nível. Logo, os produtores terão a quantidade mais elevada de energia, pois sempre serão o menor nível trófico.</li> 
+				<li> A pirâmide de energia é um tipo de pirâmide que demonstra a quantidade de energia nos níveis tróficos, a energia vai aumentando em direção aos níveis tróficos mais baixos, ou seja, em direção aos produtores.</li>
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDE # ENERGIA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ENERGIA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRAMIDES # ENERGIA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ENERGIA # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # PIRÂMIDES # ENERGIA # </pattern>
+		<template>
+			<srai> # PIRAMIDE # ENERGIA # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </pattern>
+		<template>
+			<li>Uma comunidade que possui poucos produtores, em que apenas uma grande árvore consegue alimentar várias lagartas e outros herbivoros. A pirâmide ficaria invertida da seguinte forma:
+			<image>https://static.todamateria.com.br/upload/pi/ra/pira_mide_de_na_meros_invertida12.jpg</image></li>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRÂMIDE # INVERTIDA # NÚMERO # </pattern>
+		<template>
+			<srai> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRÂMIDE # INVERTIDA # NUMERO # </pattern>
+		<template>
+			<srai> # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRAMIDE # INVERTIDA # NÚMERO # </pattern>
+		<template>
+			<srai # EXEMPLO # PIRAMIDE # INVERTIDA # NUMERO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRAMIDE # BIOMASSA # </pattern>
+			<template>
+			Exemplo:
+			<img>https://static.todamateria.com.br/upload/bi/om/biomassa12.jpg</img>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRÂMIDE # BIOMASSA # </pattern>
+		<template>
+			<srai> # EXEMPLO # PIRAMIDE # BIOMASSA # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRAMIDE # ENERGIA # </pattern>
+		<template>
+			Exemplo:
+			<image>https://static.todamateria.com.br/upload/en/er/energia12.jpg</image>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # EXEMPLO # PIRÂMIDE # ENERGIA # </pattern>
+		<template>
+			<srai> # EXEMPLO # PIRAMIDE # ENERGIA # </srai>
+		</template>
+	</category>
+
 
 </aiml>
