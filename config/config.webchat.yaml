@@ -1,5 +1,5 @@
 webchat:
-  description: Covid Tips
+  description: Chatbot Ecowê
   host: 0.0.0.0
   port: 5000
   debug: false
@@ -137,9 +137,9 @@ webchat:
 
 bot:
     brain: brain
-    initial_question: OlÁ. Eu sou um chatbot e meu nome é Covid Tips. Para iniciar uma conversar sobre a covid digite "iniciar", em qualquer momento você pode escrever "sair", "reiniciar" ou "repetir".
+    initial_question: Olá. Eu sou um chatbot e meu nome é Ecowê. Para iniciar uma conversar sobre ecologia, escreva uma pergunta sobre ecologia.
     initial_question_srai: YINITIALQUESTION
-    default_response: Desculpe, Não entendi!
+    default_response: Desculpa, não entendi o que você falou.
     default_response_srai: YEMPTY
     empty_string: YEMPTY
     exit_response: Obrigado, e até logo!
