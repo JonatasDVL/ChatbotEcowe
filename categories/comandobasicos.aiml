@@ -776,18 +776,5 @@
     	</template>
   	</category>
 
-
-	<!-- Caso não ache resposta: -->
-
-	<category>
-		<pattern> * </pattern>
-		<template>
-			<random>
-				<li> Desculpa, não sei oque você está falando.</li>
-				<li> Desculpa, não entendi o que você falou.</li> 
-				<li> Desculpa, não entendi, por favor repita.</li>    
-			</random>
-		</template>
-	</category> 
   
 </aiml>
