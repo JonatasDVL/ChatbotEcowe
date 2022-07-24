@@ -1,6 +1,6 @@
 <!DOCTYPE html
     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pt-br">
 
 <head>
     <link rel="shortcut icon" href="static/img/favicon.ico" type="image/x-icon">
@@ -8,61 +8,203 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link type="text/css" rel="stylesheet" href="static/style.css" />
-    <meta http-equiv="Cache-control" content="no-cache">
-
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
 </head>
 
-<body>
+<body id="page-top" class="bg-light">
 
-    <div class="d-none d-md-block">
-        <header>
-            <h4>CHATBOT ECOWÊ</h4>
-        </header>
-    </div>
+    <!-- Barra de Navegação -->
 
-    <div class="columnsContainer">
+    <!--<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <div class="container px-4">
+            <a class="navbar-brand" href="#page-top">Chatbot Ecowê</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span
+                    class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#chatbot">Chatbot</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#tutorial">Tutorial</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#rodape">Rodapé</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>-->
 
-        <div class="leftColumn">
-            <div id="formwrapper">
-                <div id="menu">
-                    <p class="welcome">
-                    <h5>ECOWÊ (beta)</h5>
-                    </p>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+        <div class="container px-4">
+            <a class="navbar-brand" href="#page-top">Chatbot Ecowê</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"><span
+                    class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="#chatbot">Chatbot</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#tutorial">Tutorial</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#rodape">Rodapé</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Cabeçalho -->
+
+    <!--
+    <div class="bg-light bg-gradient">
+        <br><br><br><br><br><br>
+        <div class="container px-4 text-center">
+            <h1 class="fw-bolder">Bem-vido ao Chatbot Ecowê</h1>
+            <p class="lead">Tire suas dúvidas sobre o assunto de ecologia</p>
+            <br>
+            <a class="btn btn-dark" href="#chatbot">Comece agora</a>
+        </div>
+        <br><br>
+    </div> 
+    -->
+
+    <!-- Melhorar o carrosel para celular e tentar usar container2 -->
+
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+        <br><br>
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active bg-carousel"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="1" class="bg-carousel"></li>
+            <li data-target="#carouselExampleCaptions" data-slide-to="2" class="bg-carousel"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="static/img/slide.png" class="d-block w-50" alt="1° slide">
+                <div class="text-dark carousel-caption d-none d-md-block">
+                    <h1 class="fw-bolder">Bem-vido ao Chatbot Ecowê</h1>
+                    <p class="lead">Tire suas dúvidas sobre o assunto de ecologia</p>
+                    <br><br>
+                    <a class="btn btn-dark" href="#chatbot">Comece agora</a>
+                    <br><br>
+                    <a class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
                 </div>
-
-                <div id="chatbox"></div>
-
-                <form name="message" action="">
-                    <div class="container-fluid">
-                        <input name="usermsg" type="text" id="usermsg" />
-                        <input name="submitmsg" type="submit" id="submitmsg" value=">" />
-                    </div>
-                </form>
             </div>
-        </div>
-
-        <div class="rightColumn d-none d-md-block">
-
-            <div class="d-none d-md-block">
-                <img src="static/img/ecowe.png" alt="Logo do site Ecowê" height="73" width="140">
+            <div class="carousel-item">
+                <img src="static/img/slide.png" class="d-block w-50" alt="2° slide">
+                <div class="text-dark carousel-caption d-none d-md-block">
+                    <h1 class="fw-bolder">Têm dúvidas de como utiliza o chatbot?</h1>
+                    <p class="lead">Tire suas dúvidas de como utiliza o chatbot pelo tutorial!</p>
+                    <br><br>
+                    <a class="btn btn-dark" href="#tutorial">Clique aqui</a>
+                    <br><br>
+                    <a class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
+                </div>
             </div>
-            <hr />
-            <div class="d-none d-md-block">
-                <input type="checkbox" id="checkcomvoz" name="checkcomvoz" value="voz ativa" />
-                <label for="checkcomvoz"> Opção em áudio</label>
+            <div class="carousel-item">
+                <img src="static/img/slide.png" class="d-block w-50" alt="3° slide">
+                <div class="text-dark carousel-caption d-none d-md-block">
+                    <h1 class="fw-bolder">Quer adicionar alguma pergunta?</h1>
+                    <p class="lead">Mande um e-mail no contato localizado no final da página!</p>
+                    <br><br>
+                    <a class="btn btn-dark" href="#rodape">Clique aqui</a>
+                    <br><br>
+                    <a class="carousel-control-prev" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="prev">
+                        <span class="carousel-control-prev-icon"></span>
+                        <span class="sr-only">Anterior</span>
+                    </a>
+                    <a class="carousel-control-next" type="button" data-target="#carouselExampleCaptions"
+                        data-slide="next">
+                        <span class="carousel-control-next-icon"></span>
+                        <span class="sr-only">Próximo</span>
+                    </a>
+                </div>
             </div>
-
-            <div class="d-none d-md-block">
-                <input type="hidden" id="checkcomavatar" name="checkcomavatar" value="voz ativa" />
-                <label for="checkcomvoz"></label>
-            </div>
-
         </div>
     </div>
+
+
+    <!-- Chatbot -->
+
+    <section id="chatbot">
+        <br><br>
+        <div class="columnsContainer">
+            <div class="leftColumn">
+                <div id="formwrapper">
+                    <div id="menu">
+                        <p class="welcome">
+                        <h5>Chatbot Ecowê</h5>
+                        </p>
+                    </div>
+
+                    <div id="chatbox"></div>
+
+                    <form name="message" action="">
+                        <div class="container-fluid">
+                            <input name="usermsg" type="text" id="usermsg" placeholder="Pergunte aqui" />
+                            <input name="submitmsg" type="submit" id="submitmsg" value=">>" />
+                        </div>
+                    </form>
+                    <br>
+                    <div class="px-3">
+                        <input type="checkbox" id="checkcomvoz" name="checkcomvoz" value="voz ativa" />
+                        <label for="checkcomvoz"> Opção em áudio</label>
+                        <input type="hidden" id="checkcomavatar" name="checkcomavatar" value="voz ativa" />
+                        <label for="checkcomvoz"></label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        </div>
+    </section>
+
+    <br><br>
+
+    <!-- Tutorial -->
+
+    <section id="tutorial">
+
+    </section>
+
+    <br><br>
+
+    <!-- Rodapé -->
+
+    <section id="rodape">
+        <div id="myfooter">
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-1">
+                        <br>
+                        <img src="static/img/ecowe.png" height="73" width="140"> </img>
+                    </div>
+                    <div class="col-sm-10"></div>
+                    <div class="col-sm-1">
+                        <br>
+                        <img src="static/img/ifal1.png"></img>
+                        <img src="static/img/ifal2.png"></img>
+                    </div>
+                </div>
+            </div>
+            <div>
+                <p>IFAL - Campus Palmeira Dos Índios</p>
+            </div>
+            <br>
+        </div>
+    </section>
 
     <script src="https://unpkg.com/speech-to-text@0.7.4/lib/index.js"></script>
 
