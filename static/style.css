@@ -32,8 +32,8 @@ header {
 #myfooter {
   background-color: rgb(39, 39, 39);
   color: white;
-  padding: 1em;
 }
+
 
 .leftColumn {
   margin-bottom: .5em;
@@ -159,7 +159,29 @@ a:hover {
 #br3 {
   display: none;
 }
+  
+#copy{
+  margin-left: 20px;
+}
 
+.logo-ifal{
+  margin-right: 20px;
+}
+
+#logo{
+  height:73px; 
+  width: 140px;
+}
+
+#ifal1{
+  height:72px; 
+  width: 99px;
+}
+
+#ifal2{
+  height:58px; 
+  width: 100px;
+}
 @media (min-width: 1100px) {
   #slider {
     margin-top: 70px;
@@ -439,5 +461,27 @@ a:hover {
 
   #br3 {
     display: block;
+  }
+
+  .logo-ifal{
+    margin-right: 100px;
+  }
+
+  #logo{
+    height:54px; 
+    width: 105px;
+  }
+  
+  #ifal1{
+    height:54px; 
+    width: 75px;
+  }
+  
+  #ifal2{
+    height:43.5px; 
+    width: 75px;
+  }
+  #copy{
+    font-size: 12px;
   }
 }
