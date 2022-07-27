@@ -97,7 +97,7 @@ a:hover {
 #formwrapper {
   margin: 0 auto;
   padding-bottom: 5px;
-  border: 1px solid #ACD8F0;
+  border: 1px solid #ccc;
   height: 100%;
   color: black;
 
@@ -444,11 +444,11 @@ a:hover {
   }
 
   #slider .carousel-caption h1 {
-    font-size: 17px;
+    font-size: 18px;
   }
 
   #slider .carousel-caption p {
-    font-size: 12px;
+    font-size: 10px;
     margin-bottom: 15px;
   }
 
