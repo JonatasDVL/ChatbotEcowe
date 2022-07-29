@@ -13,6 +13,19 @@
         	</random>
     	</template>
   	</category>
+	
+	<!-- Oque é biologia -->
+
+	<category>
+    	<pattern> # BIOLOGIA # </pattern>
+    	<template>
+        	<random>
+				<li> A biologia é uma ciência que estuda a vida e os seres vivos.</li>
+				<li> Biologia é uma ciência natural que estuda e analisa a vida e os seres vivos.</li> 
+        		<li> A biologia é uma das ciência naturais que estuda e descreve a vida e os seres vivos.</li>    
+        	</random>
+    	</template>
+  	</category>
 
 	<!-- Oque é flora -->
 
