@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+    
+	<category>
+		<pattern> # QUE # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<random>
+				<li> Nicho ecológico trata-se do modo de vida de uma espécie dentro de seu habitat.</li>
+				<li> Nicho ecológico trata-se de um conjunto de fatores sobre um determinado organismo como na alimentação, quais são seus predadores, período fertil ou seja todas as informações sobre uma determinada espécie.</li> 
+				<li> Nicho ecológico são as atividades realizadas por uma espécie como moradia, alimentação, período e local de reprodução, entre outros.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # QUE # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # QUE # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OQUE # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<srai> # QUE # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # OQUE # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # QUE # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<random>
+				<li> Habitat consiste no ambiente em que a espécie vive, já o nicho ecológico trata-se do seu modo de vida.</li>
+				<li> O nicho ecológico são os fatores sobre um determinado organismo, já o habitat é local que aquele ser vivo habita. </li> 
+				<li> A diferença entre os dois consiste em que o habitat é o local que o organismo reside, já o nicho ecológico são as atividades realizadas por determinada espécie. </li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # DIFERENCA # HABITAT # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # DIFERENÇA # HABITAT # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # DIFERENCA # HABITAT # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<srai> # DIFERENÇA # HABITAT # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<random>
+				<li> As duas espécies entram em competição pelos recursos</li>
+				<li> Haverá uma competição entre as duas espécies pelos recursos no ambiente.</li> 
+				<li> Devido possuírem o mesmo nicho ecológico, as duas espécies entrarão em competição.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # ESPECIES # POSSUEM # MESMO # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # ESPECIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<srai> # ESPÉCIES # POSSUEM # MESMO # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+		
+	<category>
+		<pattern> # EXEMPLO # NICHO # ECOLÓGICO # </pattern>
+		<template>
+			<random>
+				<li> Gafanhotos se alimentam de capim</li>
+				<li> Leões caçam zebras nas savanas</li> 
+				<li> Os pássaros se alimentam de sementes nas florestas</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # EXEMPLO # NICHO # ECOLOGICO # </pattern>
+		<template>
+			<srai> # EXEMPLO # NICHO # ECOLÓGICO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # UNIDADES # CONSERVAÇÃO # </pattern>
+		<template>
+			<random>
+				<li>É um programa que preserva a floresta, patrimônios culturais, reservas biológicas entre outras.</li>
+				<li> São unidades que possuem reservas naturais e culturais de grande importância, principalmente formados por florestas e parques, que precisam ser preservadas. </li> 
+				<li> As unidades de conservação são Áreas territoriais protegidas por lei, podendo ser principalmente Federais e estaduais.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # UNIDADES # CONSERVACAO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # CONSERVAÇAO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # CONSERVACÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVAÇÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVAÇAO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVACÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVACAO # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # UNIDADES # CONSERVAÇÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # CONSERVAÇOES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # CONSERVACÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVACOES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+  
+  <category>
+		<pattern> # UNIDADE # CONSERVAÇÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVAÇOES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVACÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # CONSERVACOES # </pattern>
+		<template>
+			<srai> # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVAÇÃO # </pattern>
+		<template>
+			<random>
+				<li>As unidades de proteção tem sua origem a partir de 1937. </li>
+				<li> Surgiu a partir dos anos 2000 com a criação do Ibama. </li> 
+				<li> Os primeiros parques brasileiros surgiram em 1937 legalmente, mas só a partir de uma reestruturação nos anos 2000 com a criação do Ibama, essas unidades federativas foram realmente constituídas como é hoje. </li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVACAO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVAÇAO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVACÃO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVAÇÃO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVAÇAO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVACÃO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVACAO # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVAÇÕES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVAÇOES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADES # CONSERVACÕES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVACOES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+  
+  <category>
+		<pattern> # SURGIU # UNIDADE # CONSERVAÇÕES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVAÇOES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVACÕES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # SURGIU # UNIDADE # CONSERVACOES # </pattern>
+		<template>
+			<srai> # SURGIU # UNIDADES # CONSERVAÇÃO # </srai>
+		</template>
+	</category>
+  
+  <category>
+		<pattern> # UNIDADES # PROTEÇÃO # </pattern>
+		<template>
+			<random>
+				<li>As unidades de Proteção Integral são aquelas que abrangem reservas biológicas, monumentos naturais, vida Silvestre entre outros. </li>
+				<li> São unidades que integram reservas biológicas, monumentos naturais e vida silvestre. </li> 
+				<li> São territórios que abrangem alguns conceitos específicos, como monumentos naturais, que tem a vida Silvestre ou Silva de refúgio e inclui parques nacionais. </li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # UNIDADES # PROTECAO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # PROTEÇAO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # PROTECÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTEÇÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTEÇAO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTECÃO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTECAO # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # PROTEÇÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # PROTEÇOES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # PROTECÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTECOES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+  
+  <category>
+		<pattern> # UNIDADE # PROTEÇÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTEÇOES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTECÕES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # PROTECOES # </pattern>
+		<template>
+			<srai> # UNIDADES # PROTEÇÃO # </srai>
+		</template>
+	</category>
+    
+	<category>
+		<pattern> # UNIDADES # ESTADUAIS # </pattern>
+		<template>
+			<random>
+				<li>É um programa que preserva a floresta, patrimônios culturais, reservas biológicas entre outras.</li>
+				<li> São unidades que possuem reservas naturais e culturais de grande importância, principalmente formados por florestas e parques, que precisam ser preservadas. </li> 
+				<li> As unidades de ESTADUAIS são Áreas territoriais protegidas por lei, podendo ser principalmente Federais e estaduais.</li>    
+			</random>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # ESTADUAIS # </pattern>
+		<template>
+			<srai> # UNIDADES # ESTADUAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # ESTADUAL # </pattern>
+		<template>
+			<srai> # UNIDADES # ESTADUAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # ESTADUAL # </pattern>
+		<template>
+			<srai> # UNIDADES # ESTADUAIS # </srai>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # UNIDADES # FEDERAIS # </pattern>
+		<template>
+			<random>
+				<li> As unidades federativas se alastraram mais durante a década dos anos 80 e estão bem mais presentes na região Amazônica. </li>
+				<li> São unidades que o poder federal administra e cuida,como as áreas de conservação da região Amazônica. </li> 
+				<li> As unidades federativas de proteção abrangem grande parte do país, sendo 48% de Proteção Integral e 52% de Uso Sustentável, tendo o melhor equilíbrio no território amazônico.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # UNIDADES # FEDERAL # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # FEDERAIS # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # FEDERAL # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADES # FEDERAIS # </pattern>
+		<template>
+			<random>
+				<li> As unidades federativas se alastraram mais durante a década dos anos 80 e estão bem mais presentes na região Amazônica. </li>
+				<li> São unidades que o poder federal administra e cuida,como as áreas de conservação da região Amazônica. </li> 
+				<li> As unidades federativas de proteção abrangem grande parte do país, sendo 48% de Proteção Integral e 52% de Uso Sustentável, tendo o melhor equilíbrio no território amazônico.</li>    
+			</random>
+		</template>
+	</category>
+	
+	<category>
+		<pattern> # UNIDADES # FEDERAL # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # FEDERAIS # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+	<category>
+		<pattern> # UNIDADE # FEDERAL # </pattern>
+		<template>
+			<srai> # UNIDADES # FEDERAIS # </srai>
+		</template>
+	</category>
+
+</aiml>
