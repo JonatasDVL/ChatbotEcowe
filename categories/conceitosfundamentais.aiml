@@ -1,6 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml>
 
+	<!-- Oque é ecologia -->
+
+	<category>
+    	<pattern> # ECOLOGIA # </pattern>
+    	<template>
+        	<random>
+				<li> A ecologia é uma área da biologia que estuda a relação dos seres vivos e o meio ambiente.</li>
+				<li> Ecologia é uma ramificação da biologia que estuda as relações entre meio ambiente e seres vivos.</li> 
+        		<li> A ecologia é o ramo da biologia que estuda o meio ambiente e seres vivos que habitam nele.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é flora -->
+
+	<category>
+    	<pattern> # FLORA # </pattern>
+    	<template>
+        	<random>
+				<li> A flora  representa as espécies vegetais de determinado lugar.</li>
+				<li> Representa a variedade de plantas de um ecossistema.</li> 
+        		<li> Designa-se a uma diversidade de plantas de determinado local.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é FAUNA -->
+
+	<category>
+    	<pattern> # FAUNA # </pattern>
+    	<template>
+        	<random>
+				<li> Clima é o conjunto médio de tempo meteorológico.
+				<li> Relacionado com a biodiversidade, é o conjunto de animais que vivem em determinado local.</li> 
+        		<li> Fauna é o conjunto de animais que vivem em determinados locais.</li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é CLIMA -->
+
+	<category>
+    	<pattern> # FLORA # </pattern>
+    	<template>
+        	<random>
+				<li> Clima é o conjunto médio de tempo meteorológico.</li>
+				<li> É o Conjunto de padrões atmosféricos.</li> 
+        		<li> Caracterizado pelo conjunto de estados do tempo meteorológico. </li>    
+        	</random>
+    	</template>
+  	</category>
+
+	<!-- Oque é flora -->
+
+	<category>
+    	<pattern> # FLORA # </pattern>
+    	<template>
+        	<random>
+				<li> A flora  representa as espécies vegetais de determinado lugar.</li>
+				<li> Representa a variedade de plantas de um ecossistema.</li> 
+        		<li> Designa-se a uma diversidade de plantas de determinado local.</li>    
+        	</random>
+    	</template>
+  	</category>
+
     <!-- Oque é espécie -->
 
 	<category>
@@ -391,7 +456,6 @@
         	</random>
     	</template>
   	</category>
-
 
 	<category>
     	<pattern> # BIOCENOSES # </pattern>
@@ -1492,7 +1556,7 @@
   	</category>
 
 	<category>
-    	<pattern> # IMPORTANTES # BIOCENOSE # </pattern>
+    	<pattern> # IMPORTANTES # BIÓTOPOS # </pattern>
     	<template>
         	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
     	</template>
@@ -1506,7 +1570,7 @@
   	</category>
    	
 	<category>
-		<pattern> # FUNDAMENTAL # BIOCENOSE # </pattern>
+		<pattern> # FUNDAMENTAL # BIÓTOPOS # </pattern>
     	<template>
         	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
     	</template>
@@ -1520,7 +1584,7 @@
   	</category>
 
 	<category>
-    	<pattern> # FUNDAMENTAIS # BIOCENOSE # </pattern>
+    	<pattern> # FUNDAMENTAIS # BIÓTOPOS # </pattern>
     	<template>
         	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
     	</template>
@@ -1617,6 +1681,489 @@
     	</template>
   	</category>
 
+		<category>
+    	<pattern> # BIÓTOPO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # BIOCENOSE # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIÓTOPO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIÓTOPO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIÓTOPO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIÓTOPOS # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # FUNDAMENTAL # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # ESSENCIAL # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # RELEVANTE # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # MARCANTE # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOTOPO # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # BIOCENOSE # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIOTOPO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIOTOPO # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # BIOTOPO # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # BIÓTOPO # </srai>
+    	</template>
+  	</category>
+
 	<!--  Os Biótopos são importantes? -->
 
 	<category>
@@ -1702,6 +2249,251 @@
 
 	<category>
     	<pattern> # BIÓTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTES # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIÓTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIÓTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # BIOTOPO # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPO # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTOPOS # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # IMPORTANTES # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # BIOTOPOS # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOTOPO # </pattern>
+    	<template>
+        	<srai> # BIÓTOPO # IMPORTANTE # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # BIOTOPOS # </pattern>
     	<template>
         	<srai> # BIÓTOPO # IMPORTANTE # </srai>
     	</template>
@@ -2109,6 +2901,577 @@
         	<srai> # FATORES # ANTRÓPICOS # </srai>
     	</template>
   	</category>
+
+	
+	<!-- Exemplos de fatores antrópicos? -->
+
+	<category>
+    	<pattern> # EXEMPLOS # FATORES # ANTRÓPICOS # </pattern>
+    	<template>
+        	<random>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que afetam de forma positiva os ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que atenuam alguns problemas nos ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que solucionam alguns problemas nos ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos negativos: os desmatamentos, as queimadas artificiais e a poluição que afetam os ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos negativos são os desmatamentos, as queimadas artificiais e a poluição que causam problemas aos ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos negativos são os desmatamentos, as queimadas artificiais e a poluição que geram problemas aos ecossistemas marinhos e terrestres.</li>
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Exemplos de fatores antrópicos POSITIVOS ? -->
+
+	<category>
+    	<pattern> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<random>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que afetam de forma positiva os ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que atenuam alguns problemas nos ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos positivos são os reflorestamento, coleta seletiva e a reciclagem que solucionam alguns problemas nos ecossistemas marinhos e terrestres.</li>
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # POSITIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # POSITIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # POSITIVOS # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Exemplos de fatores antrópicos negativos? -->
+
+	<category>
+    	<pattern> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<random>
+				<li>Exemplos de fatores antrópicos negativos: os desmatamentos, as queimadas artificiais e a poluição que afetam os ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos negativos são os desmatamentos, as queimadas artificiais e a poluição que causam problemas aos ecossistemas marinhos e terrestres.</li>
+				<li>Exemplos de fatores antrópicos negativos são os desmatamentos, as queimadas artificiais e a poluição que geram problemas aos ecossistemas marinhos e terrestres.</li>
+        	</random>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # NEGATIVOS # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTRÓPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+	
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICOS # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATOR # ANTROPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTRÓPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # EXEMPLO # FATORES # ANTROPICO # NEGATIVO # </pattern>
+    	<template>
+        	<srai> # EXEMPLOS # FATORES # ANTRÓPICOS # NEGATIVOS # </srai>
+    	</template>
+  	</category>
+
 
     <!-- Oque é atmosfera -->
 
@@ -3283,6 +4646,207 @@
   	</category>
 
 
+	<!-- O que é biota? -->
+
+    <category>
+	    <pattern> # BIOTA # </pattern>
+	    <template>
+	        <random>
+				<li>Biota é o conjunto de seres vivos, flora e fauna, de determinado local.</li>
+				<li>Biota é o conjunto de seres vivos que habitam ou habitavam determinado lugar.</li>
+				<li>Biota é o conjunto de fauna e flora, ou seja, um conjunto de seres vivos, que ocupam determinado local geológico.</li>
+	        </random> 
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # BIOTAS # </pattern>
+    	<template>
+        	<srai> # BIOTA # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que é biota marinha? -->
+
+    <category>
+	    <pattern> # BIOTA # MARINHA # </pattern>
+	    <template>
+	        <random>
+				<li>Biota marinha é um conjunto de seres, a fauna e flora, que habitam o ambiente aquático.</li>
+				<li>A biota marinha é a diversidade de seres que ocupam o ambiente marinho.</li>
+				<li>Biota marinha é um conjunto de fauna, flora, ou seja, conjunto de seres vivos, que vivem no ambiente marinho.</li>
+	        </random> 
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # BIOTAS # MARINHAS # </pattern>
+    	<template>
+        	<srai> # BIOTA # MARINHA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTAS # MARINHA # </pattern>
+    	<template>
+        	<srai> # BIOTA # MARINHA # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # BIOTA # MARINHAS # </pattern>
+    	<template>
+        	<srai> # BIOTA # MARINHA # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- O que são sedimentos? -->
+
+    <category>
+	    <pattern> # SENDIMENTOS # </pattern>
+	    <template>
+	        <random>
+				<li>Os sedimentos são fragmentos de erosão de rochas e solo, que são transportados por agentes geológicos e se acumulam.</li>
+				<li>Os sedimentos são fragmentos de erosão de rochas e solo, que são transportados por agentes geológicos e se acumulam.</li>
+				<li>Os sedimentos são fragmentos de erosão de rochas e solo, que são transportados por agentes geológicos e se acumulam.</li>
+	        </random> 
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # SENDIMENTO # </pattern>
+    	<template>
+        	<srai> # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+
+	<!-- Como se originam os sedimentos? -->
+
+    <category>
+	    <pattern> # ORIGEM # SENDIMENTOS # </pattern>
+	    <template>
+	        <random>
+				<li>Os sedimentos se originam de erosão de rochas e do solo.</li>
+				<li>Sedimentos são originados de erosão de rochas e do solo.</li>
+				<li>Os sedimentos têm sua origem na erosão de rochas e do solo.</li>
+	        </random> 
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # ORIGEM # SENDIMENTO # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ORIGINAM # SENDIMENTOS # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ORIGINAM # SENDIMENTO # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OCORREM # SENDIMENTOS # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OCORREM # SENDIMENTO # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OCORRE # SENDIMENTOS # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # OCORRE # SENDIMENTO # </pattern>
+    	<template>
+        	<srai> # ORIGEM # SENDIMENTOS # </srai>
+    	</template>
+  	</category>
+
+	<!-- O que é Erupção? -->
+
+    <category>
+	    <pattern> # ERUPÇÃO # </pattern>
+	    <template>
+	        <random>
+    	    	<li>A erupção vulcânica é a liberação do magma no meio ambiente.</li>
+				<li>Erupção vulcânica é quando o magma é expelido no meio ambiente.</li>
+				<li>O fenômeno da erupção vulcânica consiste na liberação do magma na superfície do planeta.</li>
+	        </random>
+	    </template>
+    </category>
+    
+	<category>
+    	<pattern> # ERUPCAO # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ERUPÇAO # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ERUPCÃO # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+    <category>
+    	<pattern> # ERUPÇÕES # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ERUPÇOES # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ERUPCÕES # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ERUPCOES # </pattern>
+    	<template>
+        	<srai> # ERUPÇÃO # </srai>
+    	</template>
+  	</category>
+
 	<!-- O que é COMBUSTão? -->
 
     <category>
@@ -3512,6 +5076,8 @@
         	<srai> # EXEMPLO # FOTOSSINTETIZANTE # </srai>
     	</template>
   	</category>
+
+	
 
 </aiml>
 

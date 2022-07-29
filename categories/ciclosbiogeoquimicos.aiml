@@ -9,11 +9,11 @@
 	        <random>
 				<li>Os ciclos biogeoquímicos são processos que ocorrem na natureza para garantir a reciclagem de elementos químicos no meio.</li>
 				<li>Os ciclos biogeoquímicos são processos que garantem que os elementos circulam pelo meio abiótico e pelo meio biótico, promovendo seu reaproveitamento.</li>
-        	<li>As formas em que um elemento ou compostos químicos, tais como a água, fluem entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico.</li>
-        	<li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
-            <li>Os ciclos biogeoquímicos são as trajetórias circulares de elementos no planeta terra, que faz com que eles sejam reaproveitados.</li>
-            <li>Os ciclos biogeoquímicos são a reciclagem de elementos. através de um percurso circular dos elementos no planeta terra.</li>
-            <li>O ciclo biogeoquímico é definido pela rota circular de diversos elementos no planeta, que ocorre diversas vezes, os reciclando.</li>
+				<li>As formas em que um elemento ou compostos químicos, tais como a água, fluem entre os seres vivos e o meio ambiente na biosfera é chamada de ciclo biogeoquímico.</li>
+				<li>Os ciclos biogeoquímicos são processos naturais em que os elementos químicos circulam entre os seres vivos e o meio ambiente.</li>
+				<li>Os ciclos biogeoquímicos são as trajetórias circulares de elementos no planeta terra, que faz com que eles sejam reaproveitados.</li>
+				<li>Os ciclos biogeoquímicos são a reciclagem de elementos. através de um percurso circular dos elementos no planeta terra.</li>
+				<li>O ciclo biogeoquímico é definido pela rota circular de diversos elementos no planeta, que ocorre diversas vezes, os reciclando.</li>
 	        </random>
 	    </template>
     </category>
@@ -39,7 +39,7 @@
     	</template>
   	</category>
 
-    	<category>
+    <category>
     	<pattern> # CICLOS # BIOGEOQUÍMICO # </pattern>
     	<template>
         	<srai> # CICLOS # BIOGEOQUÍMICOS # </srai>

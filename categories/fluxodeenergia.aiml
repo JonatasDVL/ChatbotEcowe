@@ -2046,9 +2046,323 @@
         </template>
     </category>
 
-	
 	<category>
-    	<pattern> # IMPORTÂNCIA # DECOMPOSITOR # </pattern>
+    	<pattern> # IMPORTANCIA # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTÂNCIA # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANCIA # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTE # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # IMPORTANTES # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # FUNDAMENTAL # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAL # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # FUNDAMENTAIS # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # ESSENCIAL # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAL # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # ESSENCIAIS # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # RELEVANTE # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTE # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # RELEVANTES # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # MARCANTE # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTE # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # DECOMPOSITOR # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # MARCANTES # DECOMPOSITORES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+		<category>
+    	<pattern> # DECOMPOSITOR # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # IMPORTÂNCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # IMPORTANCIA # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITOR # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # IMPORTANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # IMPORTANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+   	
+	<category>
+		<pattern> # BIOCENOSE # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # FUNDAMENTAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # FUNDAMENTAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # DECOMPOSITOR # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # ESSENCIAL # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITOR # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # ESSENCIAIS # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # DECOMPOSITOR # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # RELEVANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITOR # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # RELEVANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+		<pattern> # DECOMPOSITOR # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # MARCANTE # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITOR # MARCANTES # </pattern>
+    	<template>
+        	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
+    	</template>
+  	</category>
+
+	<category>
+    	<pattern> # DECOMPOSITORES # MARCANTES # </pattern>
     	<template>
         	<srai> # IMPORTÂNCIA # DECOMPOSITORES # </srai>
     	</template>
@@ -2203,9 +2517,9 @@
         <pattern> # CADEIA # ALIMENTAR # </pattern>
         <template>
             <random>
-            <li> Cadeia alimentar é as relações que se estabelecem entre os níveis tróficos, sendo a sequência de alimentação entre os seres vivos.</li>
-            <li> A cadeia alimentar é  a sequência de alimentação dentre os seres vivos, que estabelece a relação entre os níveis tróficos, isso forma uma cadeia alimentar.</li> 
-            <li> A cadeia alimentar é estabelecida por uma sequência de alimentação dos seres vivos, onde uns se alimentam dos outros sucessivamente.</li>
+            	<li> Cadeia alimentar é as relações que se estabelecem entre os níveis tróficos, sendo a sequência de alimentação entre os seres vivos.</li>
+            	<li> A cadeia alimentar é  a sequência de alimentação dentre os seres vivos, que estabelece a relação entre os níveis tróficos, isso forma uma cadeia alimentar.</li> 
+            	<li> A cadeia alimentar é estabelecida por uma sequência de alimentação dos seres vivos, onde uns se alimentam dos outros sucessivamente.</li>
             </random>
         </template>
     </category>
@@ -2232,15 +2546,654 @@
     </category>
 
 
+	<!-- Oque é cadeia alimentar? -->
+
+    <category>
+        <pattern> # CADEIA # ALIMENTAR # AQUÁTICA # </pattern>
+        <template>
+            <random>
+            	<li>A cadeia alimentar aquática é uma cadeia de alimentação dos animais marinhos.</li>
+            	<li>A cadeia alimentar aquática é a cadeia na qual participam apenas animais aquáticos.</li> 
+            	<li>A cadeia alimentar aquática é caracterizada por participar exclusivamente de animais aquáticos. </li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # AQUÁTICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+
+	<!-- Exemplo de cadeia alimentar aquática? -->
+
+    <category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </pattern>
+        <template>
+            <random>
+            	<li>Um exemplo de cadeia alimentar aquática é o Tubarão que se alimenta do atum, o atum que se alimenta da sardinha, a sardinha que se alimenta de zooplâncton e o zooplâncton se alimenta, por fim, do fitoplâncton. </li>
+            	<li>Um exemplo de cadeia alimentar aquática é uma foca que se alimenta do pinguim, o pinguim se alimenta do camarão, o camarão se alimenta, por fim, do fitoplâncton.</li> 
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # AQUÁTICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # AQUÁTICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # AQUATICAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # MARINHA # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTAR # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # MARINHAS # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # AQUÁTICA # </srai>
+        </template>
+    </category>
+
+		<!-- Oque é cadeia alimentar terrestre? -->
+
+    <category>
+        <pattern> # CADEIA # ALIMENTAR # TERRESTRE # </pattern>
+        <template>
+            <random>
+            	<li>A cadeia alimentar terrestre é a cadeia em que só participam animais terrestres.</li>
+            	<li>A cadeia alimentar terrestre é a cadeia na qual participam apenas animais terrestres. </li> 
+            	<li>Cadeia alimentar terrestre é a cadeia que os animais do meio terrestre fazem parte.</li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # TERRESTRE # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # AQUATICA # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIA # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CADEIAS # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+
+	<!-- Exemplo de cadeia alimentar TERRESTRE? -->
+
+    <category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </pattern>
+        <template>
+            <random>
+            	<li>Um exemplo de cadeia alimentar aquática é a águia que se alimenta da cobra, a cobra que se alimenta do sapo, sapo que se alimenta do grilo, o grilo se alimenta, por fim, da grama, o produtor. </li>
+            </random>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIA # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLO # CADEIAS # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # TERRESTRE # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTAR # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIA # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # EXEMPLOS # CADEIAS # ALIMENTARES # TERRESTRES # </pattern>
+        <template>
+            <srai> # EXEMPLO # CADEIA # ALIMENTAR # TERRESTRE # </srai>
+        </template>
+    </category>
+
 	<!-- Oque é teia alimentar? -->
 
     <category>
         <pattern> # TEIA # ALIMENTAR # </pattern>
         <template>
             <random>
-            <li> A teia alimentar é um conjunto de diversas cadeias alimentares que interagem entre si.</li>
-            <li> A teia alimentar é um conjunto de cadeias alimentares que se cruzam.</li> 
-            <li> Teia alimentar é a conexão entre duas ou mais cadeias alimentares.</li>
+            	<li> A teia alimentar é um conjunto de diversas cadeias alimentares que interagem entre si.</li>
+            	<li> A teia alimentar é um conjunto de cadeias alimentares que se cruzam.</li> 
+            	<li> Teia alimentar é a conexão entre duas ou mais cadeias alimentares.</li>
             </random>
         </template>
     </category>
@@ -2273,9 +3226,9 @@
         <pattern> # HERBÍVORO # </pattern>
         <template>
             <random>
-            <li> Os herbívoros são animais que se alimentam apenas de vegetais e folhas.</li>
-            <li> Os herbívoros são aqueles animais que se alimentam apenas de algas e plantas.</li> 
-            <li> Os animais herbívoros são aqueles que têm sua dieta à base de vegetais.</li>
+            	<li> Os herbívoros são animais que se alimentam apenas de vegetais e folhas.</li>
+            	<li> Os herbívoros são aqueles animais que se alimentam apenas de algas e plantas.</li> 
+            	<li> Os animais herbívoros são aqueles que têm sua dieta à base de vegetais.</li>
             </random>
         </template>
     </category>
@@ -2308,9 +3261,9 @@
         <pattern> # CARNÍVORO # </pattern>
         <template>
             <random>
-            <li> Os carnívoros são animais que se alimentam predominantemente de carne.</li>
-            <li> Carnívoros são animais que se alimentam majoritariamente de carne.</li> 
-            <li> Os animais carnívoros têm sua dieta à base de carne.</li>
+            	<li> Os carnívoros são animais que se alimentam predominantemente de carne.</li>
+            	<li> Carnívoros são animais que se alimentam majoritariamente de carne.</li> 
+            	<li> Os animais carnívoros têm sua dieta à base de carne.</li>
             </random>
         </template>
     </category>
@@ -2343,9 +3296,9 @@
         <pattern> # ONÍVORO # </pattern>
         <template>
             <random>
-            <li> Os onívoros são animais que comem tanto de vegetais quanto de carne.</li>
-            <li> Os onívoros são animais que se alimentam tanto de plantas como de animais.</li> 
-            <li> Os animais onívoros são aqueles que se alimentam tanto de carne, como os carnívoros, quanto de vegetais, como os herbívoros.</li>
+            	<li> Os onívoros são animais que comem tanto de vegetais quanto de carne.</li>
+            	<li> Os onívoros são animais que se alimentam tanto de plantas como de animais.</li> 
+            	<li> Os animais onívoros são aqueles que se alimentam tanto de carne, como os carnívoros, quanto de vegetais, como os herbívoros.</li>
             </random>
         </template>
     </category>
@@ -2378,9 +3331,9 @@
         <pattern> # CONSUMIDORES # </pattern>
         <template>
             <random>
-            <li> Os consumidores são seres que se alimentam de outros seres para sobreviver, ou seja, são seres heterotróficos.</li>
-            <li> Os consumidores são seres vivos que consomem outros seres vivos para sua sobrevivência, logo são seres heterotróficos.</li> 
-            <li> Consumidores são seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de outros seres vivos para sobreviver.</li>
+            	<li> Os consumidores são seres que se alimentam de outros seres para sobreviver, ou seja, são seres heterotróficos.</li>
+            	<li> Os consumidores são seres vivos que consomem outros seres vivos para sua sobrevivência, logo são seres heterotróficos.</li> 
+            	<li> Consumidores são seres heterotróficos, aqueles que não conseguem produzir seu próprio alimento, ou seja, se alimentam de outros seres vivos para sobreviver.</li>
             </random>
         </template>
     </category>
@@ -2399,15 +3352,71 @@
         <pattern> # CLASSIFICAÇÃO # CONSUMIDORES # </pattern>
         <template>
             <random>
-            <li> Os consumidores são designados conforme se encontram mais próximos dos produtores na cadeia alimentar. Exemplo: Uma zebra está se alimentando do capim, logo a zebra é o consumidor primário, pois está se alimentando diretamente de um produtor, o capim. </li>
-            <li> Os consumidores são classificados de acordo com sua proximidade dos produtores na cadeia alimentar. Exemplo: Um macaco está comendo frutas, logo o macaco é o consumidor primário, pois está se alimentando diretamente de um produtor, a fruta de uma árvore. </li> 
-            <li> Os consumidores são classificados segundo sua proximidade dos produtores na cadeia alimentar. Exemplo: Um leão está comendo a zebra, logo o leão é o consumidor secundário, pois está se alimentando do consumidor primário, a zebra. </li>
+            	<li> Os consumidores são designados conforme se encontram mais próximos dos produtores na cadeia alimentar. Exemplo: Uma zebra está se alimentando do capim, logo a zebra é o consumidor primário, pois está se alimentando diretamente de um produtor, o capim. </li>
+            	<li> Os consumidores são classificados de acordo com sua proximidade dos produtores na cadeia alimentar. Exemplo: Um macaco está comendo frutas, logo o macaco é o consumidor primário, pois está se alimentando diretamente de um produtor, a fruta de uma árvore. </li> 
+            	<li> Os consumidores são classificados segundo sua proximidade dos produtores na cadeia alimentar. Exemplo: Um leão está comendo a zebra, logo o leão é o consumidor secundário, pois está se alimentando do consumidor primário, a zebra. </li>
             </random>
         </template>
     </category>
     
     <category>
         <pattern> # CLASSIFICAÇÃO # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CLASSIFICADO # CONSUMIDORES #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CLASSIFICADO # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CLASSIFICADOS # CONSUMIDORES #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # CLASSIFICADOS # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # DESIGNADOS # CONSUMIDORES #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # DESIGNADOS # CONSUMIDOR #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # DESIGNADO # CONSUMIDORES #  </pattern>
+        <template>
+            <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
+        </template>
+    </category>
+
+	<category>
+        <pattern> # DESIGNADO # CONSUMIDOR #  </pattern>
         <template>
             <srai> # CLASSIFICAÇÃO # CONSUMIDORES # </srai>
         </template>
@@ -2420,9 +3429,9 @@
         <pattern> # CONSUMIDORES # PRIMÁRIOS # </pattern>
         <template>
             <random>
-            <li> Os consumidores primários são os animais herbívoros, pois eles se alimentam diretamente do produtor.</li>
-            <li> O consumidor primário se alimenta diretamente e exclusivamente do produtor.</li> 
-            <li> Os consumidores primários são aqueles que se alimentam exclusivamente do produtor, ou seja, os herbívoros são consumidores primários.</li>
+            	<li> Os consumidores primários são os animais herbívoros, pois eles se alimentam diretamente do produtor.</li>
+            	<li> O consumidor primário se alimenta diretamente e exclusivamente do produtor.</li> 
+            	<li> Os consumidores primários são aqueles que se alimentam exclusivamente do produtor, ou seja, os herbívoros são consumidores primários.</li>
             </random>
         </template>
     </category>
@@ -2483,9 +3492,9 @@
         <pattern> # CONSUMIDORES # SECUNDÁRIOS # </pattern>
         <template>
             <random>
-            <li> Os consumidores secundários são os animais carnívoros que se alimentam do consumidor primário.</li>
-            <li> O consumidor secundário é aquele que se alimenta do consumidor primário, ou seja, o herbívoro. </li> 
-            <li> Consumidores secundários se alimentam exclusivamente de herbívoros.</li>
+            	<li> Os consumidores secundários são os animais carnívoros que se alimentam do consumidor primário.</li>
+            	<li> O consumidor secundário é aquele que se alimenta do consumidor primário, ou seja, o herbívoro. </li> 
+            	<li> Consumidores secundários se alimentam exclusivamente de herbívoros.</li>
             </random>
         </template>
     </category>
@@ -2546,9 +3555,9 @@
         <pattern> # CONSUMIDORES # TERCIÁRIOS # </pattern>
         <template>
             <random>
-            <li> Os consumidores terciários são os animais que se alimentam do consumidor secundário.</li>
-            <li> Os consumidores terciário são aqueles consumidores que se alimentam do consumidor secundário.</li> 
-            <li> O consumidor terciário é um animal que se alimenta do consumidor secundário. </li>
+            	<li> Os consumidores terciários são os animais que se alimentam do consumidor secundário.</li>
+            	<li> Os consumidores terciário são aqueles consumidores que se alimentam do consumidor secundário.</li> 
+            	<li> O consumidor terciário é um animal que se alimenta do consumidor secundário. </li>
             </random>
         </template>
     </category>
