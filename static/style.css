@@ -159,32 +159,77 @@ a:hover {
 #br3 {
   display: none;
 }
-  
-#copy{
+
+#copy {
   margin-left: 20px;
 }
 
-.logo-ifal{
+.logo-ifal {
   margin-right: 20px;
 }
 
-.logo-ecowe{
+.logo-ecowe {
   margin-left: 0px;
 }
 
-#logo{
-  height:73px; 
+#logo {
+  height: 73px;
   width: 140px;
 }
 
-#ifal1{
-  height:72px; 
+#ifal1 {
+  height: 72px;
   width: 99px;
 }
 
-#ifal2{
-  height:58px; 
+#ifal2 {
+  height: 58px;
   width: 100px;
+}
+
+#h2 {
+  margin: 20px;
+}
+
+.tutorial {
+  text-align: center;
+}
+
+#passo1 {
+  width: 400px;
+  height: 290px;
+}
+
+#passo2 {
+  width: 400px;
+  height: 290px;
+
+}
+
+#passo3 {
+  width: 950px;
+  height: 400px;
+}
+
+#passo4 {
+  width: 950px;
+  height: 400px;
+}
+
+.passo1 {
+  justify-content: center;
+}
+
+.passo2 {
+  justify-content: center;
+}
+
+.passo3 {
+  justify-content: center;
+}
+
+.passo4 {
+  justify-content: center;
 }
 
 @media (min-width: 1100px) {
@@ -207,9 +252,6 @@ a:hover {
   .carousel-caption .btn-dark {
     font-size: 15px;
   }
-
-
-
 
 }
 
@@ -401,6 +443,30 @@ a:hover {
   #br2 {
     display: block;
   }
+
+  #passo1 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo2 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo3 {
+    width: 475px;
+    height: 200px;
+  }
+
+  #passo4 {
+    width: 475px;
+    height: 200px;
+  }
+
+  .h3 {
+    font-size: 15px;
+  }
 }
 
 @media (max-width: 475px) {
@@ -431,6 +497,26 @@ a:hover {
 
   #br2 {
     display: block;
+  }
+
+  #passo1 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo2 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo3 {
+    width: 475px;
+    height: 200px;
+  }
+
+  #passo4 {
+    width: 475px;
+    height: 200px;
   }
 }
 
@@ -468,29 +554,51 @@ a:hover {
     display: block;
   }
 
-  .logo-ecowe{
+  .logo-ecowe {
     margin-left: 10px;
   }
 
-  .logo-ifal{
+  .logo-ifal {
     margin-right: 100px;
   }
 
-  #logo{
-    height:54px; 
+  #logo {
+    height: 54px;
     width: 105px;
   }
-  
-  #ifal1{
-    height:54px; 
+
+  #ifal1 {
+    height: 54px;
     width: 75px;
   }
-  
-  #ifal2{
-    height:43.5px; 
+
+  #ifal2 {
+    height: 43.5px;
     width: 75px;
   }
-  #copy{
+
+  #copy {
     font-size: 12px;
   }
+
+  #passo1 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo2 {
+    width: 200px;
+    height: 145px;
+  }
+
+  #passo3 {
+    width: 475px;
+    height: 200px;
+  }
+
+  #passo4 {
+    width: 475px;
+    height: 200px;
+  }
+
 }
